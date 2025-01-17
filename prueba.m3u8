@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="DAZN 1 UHD" group-title="amateur" group-title="deportes",DAZN 1 UHD
-http://192.168.1.39:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+http://192.168.1.41:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 tvg-name="DAZN 1" group-title="amateur" group-title="deportes",DAZN 1
-http://192.168.1.39:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+http://192.168.1.41:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 tvg-name="DAZN 2 UHD" group-title="amateur" group-title="deportes",DAZN 2 UHD
 http://192.168.1.39:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 tvg-name="DAZN 2" group-title="amateur" group-title="deportes",DAZN 2
