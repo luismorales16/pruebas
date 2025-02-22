@@ -77,6 +77,8 @@ http://192.168.1.41:6878/ace/getstream?id=11744c25a594e17d587ed0871fe40ff21b4bd1
 http://192.168.1.41:6878/ace/getstream?id=fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP6.png" , M+ LIGA DE CAMPEONES 7
 http://192.168.1.41:6878/ace/getstream?id=b7f47db93dced60f54e8f89e2366ed061b534049&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" , M+ DEPORTES UHD
+http://192.168.1.41:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" , M+ DEPORTES
 http://192.168.1.41:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" , M+ DEPORTES SD
