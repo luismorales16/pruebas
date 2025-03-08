@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION
-getstream?id=121f719ebb94193c6086ef92865cf9b197750980&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa&_idx=-1
+http://192.168.1.40:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
