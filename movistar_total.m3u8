@@ -1,95 +1,187 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1
 http://192.168.1.36:6878/ace/getstream?id=e6a00cb2912609dceeeee88d3f66a2de9718b421&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1
+http://192.168.1.36:6878/ace/getstream?id=a7e083d922be14a0496d65aad2ff8ea9c8011bd0&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2
 http://192.168.1.36:6878/ace/getstream?id=ddb69a119ab5faf7eeec3cef77e3d591a8242816&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2
+http://192.168.1.36:6878/ace/getstream?id=57e38ef7eaab5596559415bdf96926ee4115c5ce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png" , DAZN 3
 http://192.168.1.36:6878/ace/getstream?id=c34a6552886fad4627ea36947fdec3e46e4e3b08&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" , DAZN 4
 http://192.168.1.36:6878/ace/getstream?id=5e5b670d44e4f23a49ebe1770458066ac2cf58e3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1
 http://192.168.1.36:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1
+http://192.168.1.36:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA 
 http://192.168.1.36:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA 
+http://192.168.1.36:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA 
+http://192.168.1.36:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA 
+http://192.168.1.36:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2
 http://192.168.1.36:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2
+http://192.168.1.36:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1 HD
 http://192.168.1.37:6878/ace/getstream?id=e6a00cb2912609dceeeee88d3f66a2de9718b421&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1 HD
+http://192.168.1.37:6878/ace/getstream?id=a7e083d922be14a0496d65aad2ff8ea9c8011bd0&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2 HD
 http://192.168.1.37:6878/ace/getstream?id=ddb69a119ab5faf7eeec3cef77e3d591a8242816&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2 HD
+http://192.168.1.37:6878/ace/getstream?id=57e38ef7eaab5596559415bdf96926ee4115c5ce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png" , DAZN 3 HD
 http://192.168.1.37:6878/ace/getstream?id=c34a6552886fad4627ea36947fdec3e46e4e3b08&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" , DAZN 4 HD
 http://192.168.1.37:6878/ace/getstream?id=5e5b670d44e4f23a49ebe1770458066ac2cf58e3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1 HD
 http://192.168.1.37:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1 HD
+http://192.168.1.37:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA HD 
 http://192.168.1.37:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA HD 
+http://192.168.1.37:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA HD 
+http://192.168.1.37:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA HD 
+http://192.168.1.37:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 HD
 http://192.168.1.37:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 HD
+http://192.168.1.37:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1 4K
 http://192.168.1.38:6878/ace/getstream?id=e6a00cb2912609dceeeee88d3f66a2de9718b421&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1 4K
+http://192.168.1.38:6878/ace/getstream?id=a7e083d922be14a0496d65aad2ff8ea9c8011bd0&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2 4K
 http://192.168.1.38:6878/ace/getstream?id=ddb69a119ab5faf7eeec3cef77e3d591a8242816&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2 4K
+http://192.168.1.38:6878/ace/getstream?id=57e38ef7eaab5596559415bdf96926ee4115c5ce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png" , DAZN 3 4K
 http://192.168.1.38:6878/ace/getstream?id=c34a6552886fad4627ea36947fdec3e46e4e3b08&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" , DAZN 4 4K
 http://192.168.1.38:6878/ace/getstream?id=5e5b670d44e4f23a49ebe1770458066ac2cf58e3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1 4K
 http://192.168.1.38:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1 4K
+http://192.168.1.38:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA 4K
 http://192.168.1.38:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA 4K
+http://192.168.1.38:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA 4K
+http://192.168.1.38:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA 4K
+http://192.168.1.38:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 4K
 http://192.168.1.38:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 4K
+http://192.168.1.38:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1 FHD
 http://192.168.1.39:6878/ace/getstream?id=e6a00cb2912609dceeeee88d3f66a2de9718b421&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1 FHD
+http://192.168.1.39:6878/ace/getstream?id=a7e083d922be14a0496d65aad2ff8ea9c8011bd0&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2 FHD
 http://192.168.1.39:6878/ace/getstream?id=ddb69a119ab5faf7eeec3cef77e3d591a8242816&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2 FHD
+http://192.168.1.39:6878/ace/getstream?id=57e38ef7eaab5596559415bdf96926ee4115c5ce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png" , DAZN 3 FHD
 http://192.168.1.39:6878/ace/getstream?id=c34a6552886fad4627ea36947fdec3e46e4e3b08&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" , DAZN 4 FHD
 http://192.168.1.39:6878/ace/getstream?id=5e5b670d44e4f23a49ebe1770458066ac2cf58e3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1 FHD
 http://192.168.1.39:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1 FHD
+http://192.168.1.39:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA FHD
 http://192.168.1.39:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA FHD
+http://192.168.1.39:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA FHD
+http://192.168.1.39:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA FHD
+http://192.168.1.39:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 FHD
 http://192.168.1.39:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 FHD
+http://192.168.1.39:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+
+
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1 UHD
 http://192.168.1.40:6878/ace/getstream?id=e6a00cb2912609dceeeee88d3f66a2de9718b421&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1 UHD
+http://192.168.1.40:6878/ace/getstream?id=a7e083d922be14a0496d65aad2ff8ea9c8011bd0&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2 UHD
 http://192.168.1.40:6878/ace/getstream?id=ddb69a119ab5faf7eeec3cef77e3d591a8242816&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2 UHD
+http://192.168.1.40:6878/ace/getstream?id=57e38ef7eaab5596559415bdf96926ee4115c5ce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png" , DAZN 3 UHD
 http://192.168.1.40:6878/ace/getstream?id=c34a6552886fad4627ea36947fdec3e46e4e3b08&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" , DAZN 4 UHD
 http://192.168.1.40:6878/ace/getstream?id=5e5b670d44e4f23a49ebe1770458066ac2cf58e3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1 UHD
 http://192.168.1.40:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1 UHD
+http://192.168.1.40:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA UHD
 http://192.168.1.40:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA UHD
+http://192.168.1.40:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA UHD
+http://192.168.1.40:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA UHD
+http://192.168.1.40:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 UHD
 http://192.168.1.40:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 UHD
+http://192.168.1.40:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1 HDR
 http://192.168.1.41:6878/ace/getstream?id=e6a00cb2912609dceeeee88d3f66a2de9718b421&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1 HDR
+http://192.168.1.41:6878/ace/getstream?id=a7e083d922be14a0496d65aad2ff8ea9c8011bd0&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2 HDR
 http://192.168.1.41:6878/ace/getstream?id=ddb69a119ab5faf7eeec3cef77e3d591a8242816&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2 HDR
+http://192.168.1.41:6878/ace/getstream?id=57e38ef7eaab5596559415bdf96926ee4115c5ce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png" , DAZN 3 HDR
 http://192.168.1.41:6878/ace/getstream?id=c34a6552886fad4627ea36947fdec3e46e4e3b08&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" , DAZN 4 HDR
 http://192.168.1.41:6878/ace/getstream?id=5e5b670d44e4f23a49ebe1770458066ac2cf58e3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1 HDR
 http://192.168.1.41:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1 HDR
+http://192.168.1.41:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA HDR 
 http://192.168.1.41:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA HDR 
+http://192.168.1.41:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA HDR 
+http://192.168.1.41:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA HDR 
+http://192.168.1.41:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 HDR
 http://192.168.1.41:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 HDR
+http://192.168.1.41:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
 
 
@@ -97,6 +189,8 @@ http://192.168.1.41:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefe
 http://192.168.1.36:6878/ace/getstream?id=e2d26332bf1aa59aec7e3cbe9ed4689df44ae368&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , M+ Vamos
 http://192.168.1.36:6878/ace/getstream?id=47403b07582b05c2a1eadaf6d1fb6454eda03a77&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR+" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , M+ Vamos
+http://192.168.1.36:6878/ace/getstream?id=a1660d711184fa701bf1c88395e3b2d43ddca83f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" , Movistar Plus+
 http://192.168.1.36:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc4178f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS2.png" , Movistar Plus+ 2
@@ -117,6 +211,8 @@ http://192.168.1.36:6878/ace/getstream?id=8e9390c1647da151a7bc0e1b37c4b4d21d8304
 http://192.168.1.37:6878/ace/getstream?id=e2d26332bf1aa59aec7e3cbe9ed4689df44ae368&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , M+ Vamos HD
 http://192.168.1.37:6878/ace/getstream?id=47403b07582b05c2a1eadaf6d1fb6454eda03a77&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR+" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , M+ Vamos HD
+http://192.168.1.37:6878/ace/getstream?id=a1660d711184fa701bf1c88395e3b2d43ddca83f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" , Movistar Plus+ HD
 http://192.168.1.37:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc4178f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS2.png" , Movistar Plus+ 2 HD
@@ -138,6 +234,8 @@ http://192.168.1.37:6878/ace/getstream?id=8e9390c1647da151a7bc0e1b37c4b4d21d8304
 http://192.168.1.38:6878/ace/getstream?id=e2d26332bf1aa59aec7e3cbe9ed4689df44ae368&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , M+ Vamos 4K
 http://192.168.1.38:6878/ace/getstream?id=47403b07582b05c2a1eadaf6d1fb6454eda03a77&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR+" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , M+ Vamos 4K
+http://192.168.1.38:6878/ace/getstream?id=a1660d711184fa701bf1c88395e3b2d43ddca83f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" , Movistar Plus+ 4K
 http://192.168.1.38:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc4178f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS2.png" , Movistar Plus+ 2 4K
@@ -158,6 +256,8 @@ http://192.168.1.38:6878/ace/getstream?id=8e9390c1647da151a7bc0e1b37c4b4d21d8304
 http://192.168.1.39:6878/ace/getstream?id=e2d26332bf1aa59aec7e3cbe9ed4689df44ae368&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , M+ Vamos FHD
 http://192.168.1.39:6878/ace/getstream?id=47403b07582b05c2a1eadaf6d1fb6454eda03a77&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR+" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , M+ Vamos FHD
+http://192.168.1.39:6878/ace/getstream?id=a1660d711184fa701bf1c88395e3b2d43ddca83f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" , Movistar Plus+ FHD
 http://192.168.1.39:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc4178f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS2.png" , Movistar Plus+ 2 FHD
@@ -177,6 +277,8 @@ http://192.168.1.39:6878/ace/getstream?id=8e9390c1647da151a7bc0e1b37c4b4d21d8304
 http://192.168.1.40:6878/ace/getstream?id=e2d26332bf1aa59aec7e3cbe9ed4689df44ae368&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , M+ Vamos UHD
 http://192.168.1.40:6878/ace/getstream?id=47403b07582b05c2a1eadaf6d1fb6454eda03a77&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR+" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , M+ Vamos UHD
+http://192.168.1.40:6878/ace/getstream?id=a1660d711184fa701bf1c88395e3b2d43ddca83f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" , Movistar Plus+ UHD
 http://192.168.1.40:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc4178f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS2.png" , Movistar Plus+ 2 UHD
@@ -196,6 +298,8 @@ http://192.168.1.40:6878/ace/getstream?id=8e9390c1647da151a7bc0e1b37c4b4d21d8304
 http://192.168.1.41:6878/ace/getstream?id=e2d26332bf1aa59aec7e3cbe9ed4689df44ae368&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , M+ Vamos HDR
 http://192.168.1.41:6878/ace/getstream?id=47403b07582b05c2a1eadaf6d1fb6454eda03a77&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR+" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , M+ Vamos HDR
+http://192.168.1.41:6878/ace/getstream?id=a1660d711184fa701bf1c88395e3b2d43ddca83f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" , Movistar Plus+ HDR
 http://192.168.1.41:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc4178f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR+" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS2.png" , Movistar Plus+ 2 HDR
@@ -215,12 +319,16 @@ http://192.168.1.41:6878/ace/getstream?id=8e9390c1647da151a7bc0e1b37c4b4d21d8304
 
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION
 http://192.168.1.36:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION
+http://192.168.1.36:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" , LALIGA TV HYPERMOTION 2
 http://192.168.1.36:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" , LALIGA TV HYPERMOTION 3
 http://192.168.1.36:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV
 http://192.168.1.36:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV
+http://192.168.1.36:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" , M+ LALIGA TV 2
 http://192.168.1.36:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ Laliga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" , M+ LALIGA TV 3
@@ -230,12 +338,16 @@ http://192.168.1.36:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0b
 
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION HD
 http://192.168.1.37:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION HD
+http://192.168.1.37:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" , LALIGA TV HYPERMOTION 2 HD
 http://192.168.1.37:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" , LALIGA TV HYPERMOTION 3 HD
 http://192.168.1.37:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV HD
 http://192.168.1.37:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV HD
+http://192.168.1.37:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" , M+ LALIGA TV 2 HD
 http://192.168.1.37:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ Laliga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" , M+ LALIGA TV 3 HD
@@ -243,12 +355,16 @@ http://192.168.1.37:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0b
 
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION 4K
 http://192.168.1.38:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION 4K
+http://192.168.1.38:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" , LALIGA TV HYPERMOTION 2 4K
 http://192.168.1.38:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" , LALIGA TV HYPERMOTION 3 4K 
 http://192.168.1.38:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV 4K
 http://192.168.1.38:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV 4K
+http://192.168.1.38:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" , M+ LALIGA TV 2 4K
 http://192.168.1.38:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ Laliga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" , M+ LALIGA TV 3 4K
@@ -257,12 +373,16 @@ http://192.168.1.38:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0b
 
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION FHD
 http://192.168.1.39:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION FHD
+http://192.168.1.39:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" , LALIGA TV HYPERMOTION 2 FHD
 http://192.168.1.39:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" , LALIGA TV HYPERMOTION 3 FHD
 http://192.168.1.39:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV FHD
 http://192.168.1.39:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV FHD
+http://192.168.1.39:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" , M+ LALIGA TV 2 FHD
 http://192.168.1.39:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ Laliga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" , M+ LALIGA TV 3 FHD
@@ -271,12 +391,16 @@ http://192.168.1.39:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0b
 
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION UHD
 http://192.168.1.40:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION UHD
+http://192.168.1.40:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" , LALIGA TV HYPERMOTION 2 UHD
 http://192.168.1.40:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" , LALIGA TV HYPERMOTION 3 UHD
 http://192.168.1.40:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV UHD
 http://192.168.1.40:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV UHD
+http://192.168.1.40:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" , M+ LALIGA TV 2 UHD
 http://192.168.1.40:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ Laliga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" , M+ LALIGA TV 3 UHD
@@ -285,12 +409,16 @@ http://192.168.1.40:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0b
 
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION HDR
 http://192.168.1.41:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION HDR
+http://192.168.1.41:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" , LALIGA TV HYPERMOTION 2 HDR
 http://192.168.1.41:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" , LALIGA TV HYPERMOTION 3 HDR
 http://192.168.1.41:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV HDR
 http://192.168.1.41:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV HDR
+http://192.168.1.41:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" , M+ LALIGA TV 2 HDR
 http://192.168.1.41:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="M+ Laliga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" , M+ LALIGA TV 3 HDR
@@ -487,4 +615,3 @@ http://192.168.1.41:6878/ace/getstream?id=a767137594a0bc334ca0aca85ba4f6add4fa30
 http://192.168.1.41:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d0879046&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-id="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI6.png" , M+ DEPORTES 7 HDR
 http://192.168.1.41:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
