@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1 
 http://192.168.1.41:6878/ace/getstream?id=e6a00cb2912609dceeeee88d3f66a2de9718b421&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1 
