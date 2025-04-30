@@ -31,6 +31,8 @@ http://192.168.1.41:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a8745648
 #EXTINF:-1 group-title="MOVISTAR LALIGA" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" , LALIGA TV HYPERMOTION 3 
 http://192.168.1.41:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
+#EXTINF:-1 group-title="MOVISTAR LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" , M+ LIGA DE CAMPEONES HDR
+http://192.168.1.41:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" , M+ LIGA DE CAMPEONES 
 http://192.168.1.41:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png" , M+ LIGA DE CAMPEONES 2 HDR 
@@ -53,7 +55,7 @@ http://192.168.1.41:6878/ace/getstream?id=7081a13d9fab9ef28bcee55afeedda9b9bfb42
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-id="M+ Deportes 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" , M+ DEPORTES 3
 http://192.168.1.41:6878/ace/getstream?id=76ef9323cbf0fcab45c7411361320c04a1b87ee9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-id="M+ Deportes 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png" , M+ DEPORTES 4 
-http://192.168.1.41:6878/ace/getstream?id=c0069e0b0672b36fc0b0630b59789d8cb57bf4ce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+http://192.168.1.41:6878/ace/getstream?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-id="M+ Deportes 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png" , M+ DEPORTES 5
 http://192.168.1.41:6878/ace/getstream?id=a767137594a0bc334ca0aca85ba4f6add4fa30fe&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-id="M+ Deportes 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI8.png" , M+ DEPORTES 6 
