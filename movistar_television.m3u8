@@ -9,6 +9,9 @@ http://192.168.1.41:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28d
 http://192.168.1.41:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1
 http://192.168.1.41:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 group-title="DAZN" tvg-id="RALLY TV" tvg-logo="https://m.media-amazon.com/images/I/71T58FsuUPL.png", RALLY TV
+http://192.168.1.41:6878/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA
 http://192.168.1.41:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 UHD
