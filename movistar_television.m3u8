@@ -43,7 +43,7 @@ http://192.168.1.41:6878/ace/getstream?id=4c6ed0cd87c090f3cf85b2c8adbe8b37dba085
 #EXTINF:-1 group-title="MOVISTAR LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png" , M+ LIGA DE CAMPEONES 2
 http://192.168.1.41:6878/ace/getstream?id=21598bf526fe7fde49f37ab9dd6f8cd9620e0cca&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP2.png" , M+ LIGA DE CAMPEONES 3 HDR 
-http://192.168.1.41:6878/ace/getstream?id=3618edda333dad5374ac2c801f5f14483934b97d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+http://192.168.1.41:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP2.png" , M+ LIGA DE CAMPEONES 3
 http://192.168.1.41:6878/ace/getstream?id=0b348cc1ae499e810729661878764a0fab88ab69&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 group-title="MOVISTAR LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP3.png" , M+ LIGA DE CAMPEONES 4 
