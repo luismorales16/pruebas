@@ -1,66 +1,236 @@
 #EXTM3U
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" , DAZN 1
-http://server-tv.duckdns.org:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" , DAZN 2 
-http://server-tv.duckdns.org:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png" , DAZN 3 
-http://server-tv.duckdns.org:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" , DAZN 4 
-http://server-tv.duckdns.org:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" , DAZN F1
-http://server-tv.duckdns.org:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 group-title="DAZN" tvg-id="RALLY TV" tvg-logo="https://m.media-amazon.com/images/I/71T58FsuUPL.png", RALLY TV
-http://server-tv.duckdns.org:6878/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" , DAZN LALIGA
-http://server-tv.duckdns.org:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 UHD
-http://server-tv.duckdns.org:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" , DAZN LALIGA 2 
-http://server-tv.duckdns.org:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV UHD
-http://server-tv.duckdns.org:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png" , M+ LALIGA TV
-http://server-tv.duckdns.org:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" , M+ LALIGA TV 2 
-http://server-tv.duckdns.org:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Laliga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" , M+ LALIGA TV 3
-http://server-tv.duckdns.org:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
-#EXTINF:-1 group-title="Movistar+" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" , LALIGA TV HYPERMOTION
-http://server-tv.duckdns.org:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 group-title="Movistar+" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" , LALIGA TV HYPERMOTION 2 
-http://server-tv.duckdns.org:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
-#EXTINF:-1 group-title="Movistar+" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" , LALIGA TV HYPERMOTION 3 
-http://server-tv.duckdns.org:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+#EXTINF:-1 tvg-name="LA 1" tvg-id="TVE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png" tvg-chno="1" group-title="Movistar+",LA 1
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TVE&url=https%3A%2F%2Ftvela1-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TVE%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4521
 
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" , M+ Liga de Campeones HDR
-http://server-tv.duckdns.org:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" , M+ Liga de Campeones
-http://server-tv.duckdns.org:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png" , M+ Liga de Campeones 2 HDR 
-http://server-tv.duckdns.org:6878/ace/getstream?id=4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png" , M+ Liga de Campeones 2
-http://server-tv.duckdns.org:6878/ace/getstream?id=21598bf526fe7fde49f37ab9dd6f8cd9620e0cca
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP2.png" , M+ Liga de Campeones 3 HDR 
-http://server-tv.duckdns.org:6878/ace/getstream?id=3618edda333dad5374ac2c801f5f14483934b97d
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP2.png" , M+ Liga de Campeones 3
-http://server-tv.duckdns.org:6878/ace/getstream?id=0b348cc1ae499e810729661878764a0fab88ab69
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP3.png" , M+ Liga de Campeones 4 
-http://server-tv.duckdns.org:6878/ace/getstream?id=d15464e63308dff8c956f46d83021cd5f8dd58e4
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP4.png" , M+ Liga de Campeones 5 
-http://server-tv.duckdns.org:6878/ace/getstream?id=fc624220b5c795b064e548fa4e5551b1bc322056
+#EXTINF:-1 tvg-name="LA 2" tvg-id="LA2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LA2.png" tvg-chno="2" group-title="Movistar+", LA 2
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=LA2&url=https%3A%2F%2Fla2-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22LA2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4522
 
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" , M+ Deportes
-http://server-tv.duckdns.org:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Deportes 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" , M+ Deportes 2
-http://server-tv.duckdns.org:6878/ace/getstream?id=7081a13d9fab9ef28bcee55afeedda9b9bfb4251
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Deportes 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" , M+ Deportes 3
-http://server-tv.duckdns.org:6878/ace/getstream?id=76ef9323cbf0fcab45c7411361320c04a1b87ee9
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Deportes 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png" , M+ Deportes 4
-http://server-tv.duckdns.org:6878/ace/getstream?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Deportes 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png" , M+ Deportes 5
-http://server-tv.duckdns.org:6878/ace/getstream?id=a767137594a0bc334ca0aca85ba4f6add4fa30fe
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Deportes 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI8.png" , M+ Deportes 6 
-http://server-tv.duckdns.org:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title="Movistar+" tvg-id="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI6.png" , M+ Deportes 7
-http://server-tv.duckdns.org:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932
+#EXTINF:-1 tvg-name="Antena 3" tvg-id="A3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/A3.png" tvg-chno="3" group-title="Movistar+", Antena 3
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=A3&url=https%3A%2F%2Fantena3-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22A3%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4523
+
+#EXTINF:-1 tvg-name="Cuatro" tvg-id="C4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png" tvg-chno="4" group-title="Movistar+", Cuatro
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=C4&url=https%3A%2F%2Fcuatro-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22C4%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4524
+
+#EXTINF:-1 tvg-name="Telecinco" tvg-id="T5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/T5.png" tvg-chno="5" group-title="Movistar+",Telecinco
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=T5&url=https%3A%2F%2Ftele5-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22T5%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4525
+
+#EXTINF:-1 tvg-name="La Sexta" tvg-id="SEXTA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SEXTA.png" tvg-chno="6" group-title="Movistar+",La Sexta
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SEXTA&url=https%3A%2F%2Flasexta-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22SEXTA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4526
+
+#EXTINF:-1 tvg-name="Movistar Plus+ HD" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-chno="7" group-title="Movistar+", Movistar Plus+
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MPLUS&url=https%3A%2F%2F1p-mplus-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MPLUS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5240
+
+#EXTINF:-1 tvg-name="M+ Vamos HD" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-chno="8" group-title="Movistar+", M+ Vamos
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=VAMOSD&url=https%3A%2F%2F1p-vamos-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22VAMOSD%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4767
+
+#EXTINF:-1 tvg-name="M+ Estrenos" tvg-id="MV1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" tvg-chno="12" group-title="Movistar+", M+ Estrenos
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MV1&url=https%3A%2F%2Fm1estrenos-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MV1%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4501
+
+#EXTINF:-1 tvg-name="M+ Hits" tvg-id="MHITS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MHITS.png" tvg-chno="13" group-title="Movistar+", M+ Hits
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MHITS&url=https%3A%2F%2Fm1hits-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MHITS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4527
+
+#EXTINF:-1 tvg-name="M+ Originales" tvg-id="MORIG" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png" tvg-chno="14" group-title="Movistar+", M+ Originales
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MORIG&url=https%3A%2F%2Fmoriginales-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MORIG%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5259
+
+#EXTINF:-1 tvg-name="M+ Documentales" tvg-id="MDOC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" tvg-chno="17" group-title="Movistar+", M+ Documentales
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MDOC&url=https%3A%2F%2Fmdocumentales-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MDOC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5245
+
+#EXTINF:-1 tvg-name="M+ Todo Chaplin" tvg-id="MCHAP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCHAP.png" tvg-chno="18" group-title="Movistar+", M+ Todo Chaplin
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MCHAP&url=https%3A%2F%2F02popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MCHAP%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5252
+
+#EXTINF:-1 tvg-name="M+ Comedia Española" tvg-id="M+ Comedia Española" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" tvg-chno="18" group-title="Movistar+", M+ Cine Español
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MESPA%C3%91&url=https%3A%2F%2F02popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MESPA%C3%91%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5252
+
+#EXTINF:-1 tvg-name="TCM" tvg-id="TCM" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TCM.png" tvg-chno="30" group-title="Movistar+",TCM
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TCM&url=https%3A%2F%2Ftcm-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TCM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4603
+
+#EXTINF:-1 tvg-name="BBC Drama" tvg-id="BBDRA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBDRA.png" tvg-chno="32" group-title="Movistar+", BBC Drama
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BBDRA&url=https%3A%2F%2Fdramabbc-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BBDRA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5363
+
+#EXTINF:-1 tvg-name="BBC Top Gear" tvg-id="BBGEA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBGEA.png" tvg-chno="34" group-title="Movistar+", BBC Top Gear
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BBGEA&url=https%3A%2F%2Ftopgearbbc-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BBGEA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5369
+
+#EXTINF:-1 tvg-name="BE MAD" tvg-id="BEMAD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BEMAD.png" tvg-chno="37" group-title="Movistar+", BE MAD
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BEMAD&url=https%3A%2F%2Fbemad-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BEMAD%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4560
+
+#EXTINF:-1 tvg-name="STAR Channel" tvg-id="FOXGE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FOXGE.png" tvg-chno="38" group-title="Movistar+", STAR Channel
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=FOXGE&url=https%3A%2F%2F01star-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22FOXGE%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4528
+
+#EXTINF:-1 tvg-name="AXN" tvg-id="AXN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/AXN.png" tvg-chno="39" group-title="Movistar+", AXN
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=AXN&url=https%3A%2F%2F1axn-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22AXN%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4529
+
+#EXTINF:-1 tvg-name="Paramount Network" tvg-id="PARCH" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PARCH.png" tvg-chno="36" group-title="Movistar+", Paramount Network
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=PARCH&url=https%3A%2F%2Fparamount-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22PARCH%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4586
+
+#EXTINF:-1 tvg-name="Warner TV" tvg-id="TNT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TNT.png" tvg-chno="40" group-title="Movistar+", Warner TV
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TNT&url=https%3A%2F%2Ftvwarner-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TNT%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4530
+
+#EXTINF:-1 tvg-name="Comedy Central" tvg-id="PCM" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PCM.png" tvg-chno="41" group-title="Movistar+", Comedy Central
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=PCM&url=https%3A%2F%2Fcomedycentral-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22PCM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4531
+
+#EXTINF:-1 tvg-name="Calle 13" tvg-id="CL13" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CL13.png" tvg-chno="42" group-title="Movistar+", Calle 13
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CL13&url=https%3A%2F%2Fcalle13-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CL13%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4532
+
+#EXTINF:-1 tvg-name="COSMO" tvg-id="COSMO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/COSMO.png" tvg-chno="43" group-title="Movistar+", COSMO
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=COSMO&url=https%3A%2F%2Fcosmo-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22COSMO%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4533
+
+#EXTINF:-1 tvg-name="SYFY" tvg-id="SCI-FI" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SCI-FI.png" tvg-chno="44" group-title="Movistar+", SYFY
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SCI-FI&url=https%3A%2F%2Fsyfy-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22SCI-FI%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4536
+
+#EXTINF:-1 tvg-name="TRECE" tvg-id="13TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/13TV.png" tvg-chno="47" group-title="Movistar+",TRECE
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=13TV&url=https%3A%2F%2Ftdt13tv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%2213TV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5094
+
+#EXTINF:-1 tvg-name="Energy" tvg-id="ENERGY" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ENERGY.png" tvg-chno="48" group-title="Movistar+",Energy
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ENERGY&url=https%3A%2F%2Fenergy-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ENERGY%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4540
+
+#EXTINF:-1 tvg-name="Factoría de Ficción" tvg-id="FDFIC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FDFIC.png" tvg-chno="49" group-title="Movistar+", Factoría de Ficción
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=FDFIC&url=https%3A%2F%2Ffdf-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22FDFIC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4537
+
+#EXTINF:-1 tvg-name="Neox" tvg-id="NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NEOX.png" tvg-chno="50" group-title="Movistar+", Neox
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NEOX&url=https%3A%2F%2Fneox-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22NEOX%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4538
+
+#EXTINF:-1 tvg-name="Atreseries" tvg-id="ATRESS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ATRESS.png" tvg-chno="51" group-title="Movistar+", Atreseries
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ATRESS&url=https%3A%2F%2Fa3series-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ATRESS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4539
+
+#EXTINF:-1 tvg-name="M+ LaLiga TV HD" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-chno="77" group-title="Movistar+", M+ LALIGA TV UHD
+http://192.168.1.41:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="M+ LaLiga TV HD" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-chno="78" group-title="Movistar+", M+ LALIGA TV
+http://192.168.1.41:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" tvg-chno="75" group-title="Movistar+", DAZN LALIGA
+http://192.168.1.41:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="LaLiga TV Hypermotion HD" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-chno="80" group-title="Movistar+", LALIGA TV HYPERMOTION
+http://192.168.1.41:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="M+ Laliga TV 2 HD" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" tvg-chno="79" group-title="Movistar+", M+ LALIGA TV 2
+http://192.168.1.41:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" tvg-chno="76" group-title="Movistar+", DAZN LALIGA 2
+http://192.168.1.41:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="LaLiga TV Hypermotion 2" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-chno="81" group-title="Movistar+", LALIGA TV HYPERMOTION 2
+http://192.168.1.41:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="M+ Liga de Campeones HD" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-chno="82" group-title="Movistar+", M+ Liga de Campeones HDR
+http://192.168.1.41:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="M+ Liga de Campeones HD" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-chno="83" group-title="Movistar+", M+ Liga de Campeones
+http://192.168.1.41:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="M+ Deportes HD" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-chno="84" group-title="Movistar+", M+ Deportes
+http://192.168.1.41:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="M+ Ellas V" tvg-id="MELLAV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png" tvg-chno="66" group-title="Movistar+", M+ Ellas Vamos
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MELLAV&url=https%3A%2F%2F1p-ellasv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MELLAV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5093
+
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" tvg-chno="74" group-title="Movistar+", DAZN F1
+http://192.168.1.41:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" tvg-chno="70" group-title="Movistar+", DAZN 1
+http://192.168.1.41:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" tvg-chno="71" group-title="Movistar+", DAZN 2
+http://192.168.1.41:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-id="ESP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-chno="72" group-title="Movistar+", Eurosport 1
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ESP&url=https%3A%2F%2Feurosport1-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ESP%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4605
+
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-id="ESP2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png" tvg-chno="73" group-title="Movistar+", Eurosport 2
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ESP2&url=https%3A%2F%2Feurosport2-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ESP2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4580
+
+#EXTINF:-1 tvg-name="GOL PLAY" tvg-id="GOL" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOL.png" tvg-chno="74" group-title="Movistar+", GOL
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=GOL&url=https%3A%2F%2Fgoltv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22GOL%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4577
+
+#EXTINF:-1 tvg-name="Teledeporte" tvg-id="TDEP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TDEP.png" tvg-chno="75" group-title="Movistar+",Teledeporte
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TDEP&url=https%3A%2F%2Fteledeporte-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TDEP%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4504
+
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="REALM" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/REALM.png" tvg-chno="76" group-title="Movistar+", Real Madrid TV
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=REALM&url=https%3A%2F%2Frealmadrid-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22REALM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5198
+
+#EXTINF:-1 tvg-name="Caza y Pesca" tvg-id="CAZPES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CAZPES.png" tvg-chno="77" group-title="Movistar+", Caza y Pesca
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CAZPES&url=https%3A%2F%2Fcazaypesca-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CAZPES%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4606
+
+#EXTINF:-1 tvg-name="Garage TV" tvg-id="Garage TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GARAGE.png" tvg-chno="79" group-title="Movistar+", El Garage TV
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=GARAGE&url=https%3A%2F%2Fgaragetv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22GARAGE%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5273
+
+#EXTINF:-1 tvg-name="Ubeat" tvg-id="UBEAT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/UBEAT.png" tvg-chno="81" group-title="Movistar+", Ubeat
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=UBEAT&url=https%3A%2F%2Fubeat-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22UBEAT%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4886
+
+#EXTINF:-1 tvg-name="National Geographic" tvg-id="NATGEO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png" tvg-chno="82" group-title="Movistar+", National Geographic
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NATGEO&url=https%3A%2F%2Fgeonat-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22NATGEO%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4604
+
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-id="NATGW" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGW.png" tvg-chno="83" group-title="Movistar+",Nat Geo Wild
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NATGW&url=https%3A%2F%2Fwildnatgeo-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22NATGW%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4610
+
+#EXTINF:-1 tvg-name="BBC History" tvg-id="BBHIS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBHIS.png" tvg-chno="84" group-title="Movistar+", BBC History
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BBHIS&url=https%3A%2F%2Fhistorybbc-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BBHIS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5366
+
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DCRMAX" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCRMAX.png" tvg-chno="89" group-title="Movistar+", DMAX
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=DCRMAX&url=https%3A%2F%2Fdmax-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22DCRMAX%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5244
+
+#EXTINF:-1 tvg-name="BBC Food" tvg-id="BBFOO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBFOO.png" tvg-chno="92" group-title="Movistar+", BBC Food
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BBFOO&url=https%3A%2F%2Ffoodbbc-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BBFOO%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5360
+
+#EXTINF:-1 tvg-name="DKISS" tvg-id="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DKISS.png" tvg-chno="94" group-title="Movistar+", DKISS
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=DKISS&url=https%3A%2F%2Fdkiss-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22DKISS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5246
+
+#EXTINF:-1 tvg-name="Divinity" tvg-id="DIVINI" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DIVINI.png" tvg-chno="95" group-title="Movistar+", Divinity
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=DIVINI&url=https%3A%2F%2Fdivinity-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22DIVINI%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4507
+
+#EXTINF:-1 tvg-name="Nova" tvg-id="NOVA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NOVA.png" tvg-chno="96" group-title="Movistar+", Nova
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NOVA&url=https%3A%2F%2Fnova-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22NOVA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4601
+
+#EXTINF:-1 tvg-name="Mega" tvg-id="MEGA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEGA.png" tvg-chno="97" group-title="Movistar+", Mega
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MEGA&url=https%3A%2F%2Fmega-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MEGA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4558
+
+#EXTINF:-1 tvg-name="Ten" tvg-id="TEN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TEN.png" tvg-chno="98" group-title="Movistar+", Ten
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TEN&url=https%3A%2F%2Ftvten-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TEN%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5253
+
+#EXTINF:-1 tvg-name="Baby TV" tvg-id="BABY" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BABY.png" tvg-chno="110" group-title="Movistar+", Baby TV
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BABY&url=https%3A%2F%2Fbabytv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BABY%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4508
+
+#EXTINF:-1 tvg-name="Disney Junior" tvg-id="PLAYDC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PLAYDC.png" tvg-chno="111" group-title="Movistar+", Disney Junior
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=PLAYDC&url=https%3A%2F%2Fjrdisney-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22PLAYDC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4509
+
+#EXTINF:-1 tvg-name="NICK JR" tvg-id="NICKJR" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NICKJR.png" tvg-chno="113" group-title="Movistar+", NICK JR
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NICKJR&url=https%3A%2F%2Fjrnick-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22NICKJR%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4511
+
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="NICK" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NICK.png" tvg-chno="114" group-title="Movistar+", Nickelodeon
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NICK&url=https%3A%2F%2Fnickelodeon-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22NICK%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4512
+
+#EXTINF:-1 tvg-name="Dreamworks" tvg-id="DWSP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DWSP.png" tvg-chno="115" group-title="Movistar+", Dreamworks
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=DWSP&url=https%3A%2F%2Fdreamworks-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22DWSP%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4965
+
+#EXTINF:-1 tvg-name="Boing" tvg-id="BOING" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BOING.png" tvg-chno="117" group-title="Movistar+",Boing
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BOING&url=https%3A%2F%2Fboing-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BOING%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4563
+
+#EXTINF:-1 tvg-name="Clan TVE" tvg-id="CLANTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CLANTV.png" tvg-chno="118" group-title="Movistar+", Clan
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CLANTV&url=https%3A%2F%2Fclan-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CLANTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4611
+
+#EXTINF:-1 tvg-name="MTV España" tvg-id="MTV España" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MTV" tvg-chno="120" group-title="Movistar+", MTV
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MTV&url=https%3A%2F%2Fespanamtv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4499
+
+#EXTINF:-1 tvg-name="MTV 00s" tvg-id="VH1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VH1" tvg-chno="121" group-title="Movistar+", MTV 00s
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=VH1&url=https%3A%2F%2F00smtv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22VH1%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4567
+
+#EXTINF:-1 tvg-name="24 Horas" tvg-id="24H" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/24H" tvg-chno="127" group-title="Movistar+", 24 Horas
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=24H&url=https%3A%2F%2F24horas-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%2224H%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4544
+
+#EXTINF:-1 tvg-name="BBC World News Europe HD" tvg-id="BBC World News Europe HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBC" tvg-chno="128" group-title="Movistar+", BBC World
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BBC&url=https%3A%2F%2Fworldbbc-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BBC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5256
+
+#EXTINF:-1 tvg-name="Canal Sur Andalucía" tvg-id="ANTV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ANTV" tvg-chno="151" group-title="Movistar+",Canal Sur Andalucía
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ANTV&url=https%3A%2F%2Fcsur-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ANTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4764
+
+#EXTINF:-1 tvg-name="Movistar Plus+ 2" tvg-id="MPLUS2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS2" tvg-chno="176" group-title="Movistar+",Movistar Plus+ 2
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MPLUS2&url=https%3A%2F%2F2plus-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MPLUS2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5264
+
+#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png" tvg-chno="72" group-title="Movistar+", DAZN 3
+http://192.168.1.41:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="DAZN 4 HD" tvg-id="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" tvg-chno="73" group-title="Movistar+", DAZN 4
+http://192.168.1.41:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
