@@ -129,12 +129,17 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MELLAV&url=https%3A%
 #EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" tvg-chno="74" group-title="Movistar+", DAZN F1
 http://192.168.1.41:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
+#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" tvg-chno="70" group-title="Movistar+", DAZN 1 UHD
+http://192.168.1.41:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
 #EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" tvg-chno="70" group-title="Movistar+", DAZN 1
-http://192.168.1.41:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+http://192.168.1.41:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" tvg-chno="71" group-title="Movistar+", DAZN 2 UHD
+http://192.168.1.41:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
 #EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" tvg-chno="71" group-title="Movistar+", DAZN 2
 http://192.168.1.41:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
 
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-id="ESP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-chno="72" group-title="Movistar+", Eurosport 1
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ESP&url=https%3A%2F%2Feurosport1-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ESP%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4605
