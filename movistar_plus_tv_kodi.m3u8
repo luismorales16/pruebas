@@ -36,9 +36,6 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MORIG&url=https%3A%2
 #EXTINF:-1 tvg-name="M+ Documentales" tvg-id="MDOC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" tvg-chno="17" group-title="Movistar+", M+ Documentales
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MDOC&url=https%3A%2F%2Fmdocumentales-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MDOC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5245
 
-#EXTINF:-1 tvg-name="M+ Todo Chaplin" tvg-id="MCHAP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCHAP.png" tvg-chno="18" group-title="Movistar+", M+ Todo Chaplin
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MCHAP&url=https%3A%2F%2F02popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MCHAP%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5252
-
 #EXTINF:-1 tvg-name="M+ Comedia Española" tvg-id="M+ Comedia Española" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" tvg-chno="18" group-title="Movistar+", M+ Cine Español
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MESPA%C3%91&url=https%3A%2F%2F02popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MESPA%C3%91%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5252
 
