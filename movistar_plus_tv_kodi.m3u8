@@ -111,7 +111,7 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ATRESS&url=https%3A%
 #EXTINF:-1 tvg-name="M+ LaLiga TV HD" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png"  group-title="Movistar+", M+ LALIGA HDR
 http://192.168.1.41:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
-#EXTINF:-1 tvg-name="M+ LaLiga TV HD" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" group-title="Movistar+", M+ LALIGA TV
+#EXTINF:-1 tvg-name="M+ LaLiga TV HD" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" group-title="Movistar+", M+ LALIGA
 http://192.168.1.41:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
 #EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar+", DAZN LALIGA
@@ -123,7 +123,7 @@ http://192.168.1.41:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4b
 #EXTINF:-1 tvg-name="M+ LaLiga TV 2 HD" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIUHD.png"  group-title="Movistar+", M+ LALIGA 2 HDR
 http://192.168.1.41:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
-#EXTINF:-1 tvg-name="M+ LaLiga TV 2 HD" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIUHD.png"  group-title="Movistar+", M+ LALIGA TV 2
+#EXTINF:-1 tvg-name="M+ LaLiga TV 2 HD" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIUHD.png"  group-title="Movistar+", M+ LALIGA 2
 http://192.168.1.41:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
 #EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar+", DAZN LALIGA 2
