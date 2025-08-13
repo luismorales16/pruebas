@@ -109,7 +109,7 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NEOX&url=https%3A%2F
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ATRESS&url=https%3A%2F%2Fa3series-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ATRESS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4539
 
 #EXTINF:-1 tvg-name="M+ LaLiga TV HD" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png"  group-title="Movistar+", M+ LALIGA HDR
-http://192.168.1.41:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+http://192.168.1.41:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
 #EXTINF:-1 tvg-name="M+ LaLiga TV HD" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" group-title="Movistar+", M+ LALIGA
 http://192.168.1.41:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
