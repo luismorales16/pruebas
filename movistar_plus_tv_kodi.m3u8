@@ -36,21 +36,6 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MORIG&url=https%3A%2
 #EXTINF:-1 tvg-name="M+ Documentales" tvg-id="MDOC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png"  group-title="Movistar+", M+ Documentales
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MDOC&url=https%3A%2F%2Fmdocumentales-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MDOC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5245
 
-#EXTINF:-1 tvg-name="M+ Clásicos HD" tvg-id="M+ Clásicos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCLAS.png" group-title="Movistar+", M+ Clásicos HD
-http://192.168.1.41:6878/ace/getstream?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Acción HD" tvg-id="M+ Acción HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPACCI.png"  group-title="Movistar+", M+ Acción
-http://192.168.1.41:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Comedia HD" tvg-id="M+ Comedia HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png"  group-title="Movistar+", M+ Comedia
-http://192.168.1.41:6878/ace/getstream?id=124aa6d58fd72a763ed0349c874551bd2504798f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Drama HD" tvg-id="M+ Drama HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png"  group-title="Movistar+", M+ Drama
-http://192.168.1.41:6878/ace/getstream?id=aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Indie HD" tvg-id="M+ Indie HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png"  group-title="Movistar+", M+ Indie
-http://192.168.1.41:6878/ace/getstream?id=4f35f115971f0b156baabb8efa9926b1eb8ba5af&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
 #EXTINF:-1 tvg-name="M+ Comedia Española" tvg-id="M+ Comedia Española" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png"  group-title="Movistar+", M+ Cine Español
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MESPA%C3%91&url=https%3A%2F%2F02popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MESPA%C3%91%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5252
 
@@ -81,9 +66,6 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TNT&url=https%3A%2F%
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id="PCM" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PCM.png"  group-title="Movistar+", Comedy Central
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=PCM&url=https%3A%2F%2Fcomedycentral-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22PCM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4531
 
-#EXTINF:-1 tvg-name="Canal Cocina" tvg-id="Canal Cocina" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/fda5608b46dea58755a37c9af00193b6_c-cocina-black.svg.png" group-title="Movistar+", Canal Cocina
-http://192.168.1.41:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
 #EXTINF:-1 tvg-name="Calle 13" tvg-id="CL13" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CL13.png" group-title="Movistar+", Calle 13
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CL13&url=https%3A%2F%2Fcalle13-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CL13%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4532
 
@@ -108,74 +90,14 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NEOX&url=https%3A%2F
 #EXTINF:-1 tvg-name="Atreseries" tvg-id="ATRESS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ATRESS.png"  group-title="Movistar+", Atreseries
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ATRESS&url=https%3A%2F%2Fa3series-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ATRESS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4539
 
-#EXTINF:-1 tvg-name="M+ LaLiga TV HD" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png"  group-title="Movistar+", M+ LALIGA HDR
-http://192.168.1.41:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ LaLiga TV HD" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" group-title="Movistar+", M+ LALIGA
-http://192.168.1.41:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar+", DAZN LALIGA HDR
-http://192.168.1.41:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar+", DAZN LALIGA
-http://192.168.1.41:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
 #EXTINF:-1 tvg-name="LaLiga TV Hypermotion HD" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" group-title="Movistar+", LALIGA TV HYPERMOTION
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS&url=https%3A%2F%2Fmsegdiv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MLIGS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5124
-
-#EXTINF:-1 tvg-name="M+ LaLiga TV 2 HD" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIUHD.png"  group-title="Movistar+", M+ LALIGA 2 HDR
-http://192.168.1.41:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ LaLiga TV 2 HD" tvg-id="M+ Laliga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIUHD.png"  group-title="Movistar+", M+ LALIGA 2
-http://192.168.1.41:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar+", DAZN LALIGA 2
-http://192.168.1.41:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
 #EXTINF:-1 tvg-name="LaLiga TV Hypermotion 2" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png"  group-title="Movistar+", LALIGA TV HYPERMOTION 2
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS2&url=https%3A%2F%2F2segdiv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MLIGS2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5127
 
-#EXTINF:-1 tvg-name="M+ Liga de Campeones HD" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png"  group-title="Movistar+", M+ Liga de Campeones HDR
-http://192.168.1.41:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Liga de Campeones HD" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" group-title="Movistar+", M+ Liga de Campeones
-http://192.168.1.41:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Deportes HD" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png"  group-title="Movistar+", M+ Deportes
-http://192.168.1.41:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Deportes 2 HD" tvg-id="M+ Deportes 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" group-title="Movistar+", M+ Deportes 2
-http://192.168.1.41:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Deportes 2 HD" tvg-id="M+ Deportes 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" group-title="Movistar+", M+ Deportes 2 SD
-http://192.168.1.41:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Deportes 3" tvg-id="M+ Deportes 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" tvg-chno="84" group-title="Movistar+", M+ Deportes 3
-http://192.168.1.41:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Deportes 3" tvg-id="M+ Deportes 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" group-title="Movistar+", M+ Deportes 3 SD
-http://192.168.1.41:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
 #EXTINF:-1 tvg-name="M+ Ellas V" tvg-id="MELLAV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png"  group-title="Movistar+", M+ Ellas Vamos
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MELLAV&url=https%3A%2F%2F1p-ellasv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MELLAV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5093
-
-#EXTINF:-1 tvg-name="M+ Golf HD" tvg-id="M+ Golf HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF+.png"  group-title="Movistar+", M+ Golf
-http://192.168.1.41:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png"  group-title="Movistar+", DAZN F1
-http://192.168.1.41:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar+", DAZN 1 HDR
-http://192.168.1.41:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar+", DAZN 1
-http://192.168.1.41:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png"  group-title="Movistar+", DAZN 2 HDR
-http://192.168.1.41:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png"  group-title="Movistar+", DAZN 2
-http://192.168.1.41:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-id="ESP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" group-title="Movistar+", Eurosport 1
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ESP&url=https%3A%2F%2Feurosport1-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ESP%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4605
@@ -270,23 +192,5 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ANTV&url=https%3A%2F
 #EXTINF:-1 tvg-name="Movistar Plus+ 2" tvg-id="MPLUS2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS2"  group-title="Movistar+", Movistar Plus+ 2
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MPLUS2&url=https%3A%2F%2F2plus-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MPLUS2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5264
 
-#EXTINF:-1 tvg-name="M+ Deportes 4" tvg-id="M+ Deportes 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png" group-title="Movistar+", M+ Deportes 4
-http://192.168.1.41:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Deportes 5" tvg-id="M+ Deportes 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png" group-title="Movistar+", M+ Deportes 5
-http://192.168.1.41:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Deportes 6" tvg-id="M+ Deportes 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI8.png" group-title="Movistar+", M+ Deportes 6
-http://192.168.1.41:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d0879046&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="M+ Deportes 7" tvg-id="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI6.png" group-title="Movistar+", M+ Deportes 7
-http://192.168.1.41:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
 #EXTINF:-1 tvg-name="LaLiga TV Hypermotion 3" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png"  group-title="Movistar+", LALIGA TV HYPERMOTION 3
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS3&url=https%3A%2F%2F3segdiv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MLIGS3%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5137
-
-#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png" group-title="Movistar+", DAZN 3
-http://192.168.1.41:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
-#EXTINF:-1 tvg-name="DAZN 4 HD" tvg-id="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" group-title="Movistar+", DAZN 4
-http://192.168.1.41:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
