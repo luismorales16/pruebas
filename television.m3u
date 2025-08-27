@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,M+ LALIGA FHD
+http://192.168.1.41:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
+#EXTINF:-1,M+ LALIGA
+http://192.168.1.41:6878/ace/getstream?id=c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c
