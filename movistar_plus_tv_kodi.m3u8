@@ -90,6 +90,9 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NEOX&url=https%3A%2F
 #EXTINF:-1 tvg-name="Atreseries" tvg-id="ATRESS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ATRESS.png"  group-title="Movistar+", Atreseries
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ATRESS&url=https%3A%2F%2Fa3series-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ATRESS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4539
 
+#EXTINF:-1 tvg-name="Primera Federación" tvg-id="Primera Federación" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png" group-title="Movistar+", Primera Federación
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MCOPA&url=https%3A%2F%2F01coparey-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MCOPA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5355
+
 #EXTINF:-1 tvg-name="LaLiga TV Hypermotion HD" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" group-title="Movistar+", LALIGA TV HYPERMOTION
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS&url=https%3A%2F%2Fmsegdiv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MLIGS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5124
 
