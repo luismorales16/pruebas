@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png", M+ LALIGA HDR
+#EXTINF:-1, M+ LALIGA HDR
 http://192.168.1.41:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png", M+ LALIGA
+#EXTINF:-1, M+ LALIGA
 http://192.168.1.41:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png", M+ LALIGA SD
+#EXTINF:-1, M+ LALIGA SD
 http://192.168.1.41:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 
 #EXTINF:-1,M+ LALIGA 2 HDR
@@ -46,4 +46,5 @@ http://192.168.1.41:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc48
 
 #EXTINF:-1,LIGA DE CAMPEONES 3
 http://192.168.1.41:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+
 
