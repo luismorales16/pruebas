@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Movistar LaLiga HD ES" tvg-id="Movistar LaLiga HD ES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar+", M+ LALIGA
-http://192.168.1.41:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
