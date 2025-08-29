@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1,DAZN 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1,DAZN 1
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
+#EXTINF:-1,DAZN 1 SD
+http://127.0.0.1:6878/ace/getstream?id=ee4dc45720d3ec283f61189fbfc120c91d5141bf
+#EXTINF:-1,DAZN 2 HDR
+http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
+#EXTINF:-1,DAZN 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
+#EXTINF:-1, DAZN 2 
+http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1,DAZN 2--> OPCION 1
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1,DAZN 2 SD
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1,DAZN 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1,DAZN 3
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1,DAZN 3 SD
+http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1,DAZN 4 FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
+#EXTINF:-1,DAZN 4
+http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
+#EXTINF:-1,DAZN 4 SD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1,DAZN F1 FHD 
+http://127.0.0.1:6878/ace/getstream?id=ba6e1bdc8e03da60ff572557645eb04370af0cd0
+#EXTINF:-1,DAZN F1
+http://127.0.0.1:6878/ace/getstream?id=8c1155cdfae76eb582290c04904c98da066657c9
+#EXTINF:-1,DAZN F1 SD
+http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1,DAZN LA LIGA FHD
+http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
+#EXTINF:-1,DAZN LA LIGA
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1,DAZN LA LIGA 2 HDR
+http://127.0.0.1:6878/ace/getstream?id=ae16a8f004b1287ee1f53263ab265f72bba0daf5
+#EXTINF:-1,DAZN LA LIGA 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1,DAZN LA LIGA 2
+http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
+#EXTINF:-1,DAZN LA LIGA 2 SD
+http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+
