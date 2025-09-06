@@ -50,11 +50,17 @@ http://192.168.1.41:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc48
 #EXTINF:-1,LIGA DE CAMPEONES 3
 http://192.168.1.41:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
 
-#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1 HDR
 http://192.168.1.41:6878/ace/getstream?id=ba6e1bdc8e03da60ff572557645eb04370af0cd0
 
-#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1 UHD
 http://192.168.1.41:6878/ace/getstream?id=8c1155cdfae76eb582290c04904c98da066657c9
+
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1 FHD
+http://192.168.1.41:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1
+http://192.168.1.41:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1 SD
 http://192.168.1.41:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
@@ -107,6 +113,7 @@ http://192.168.1.41:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0a
 
 #EXTINF:-1 tvg-name="M+ LaLiga HDR" tvg-id="M+ LaLiga HDR" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png", M+ LALIGA HDR
 http://192.168.1.41:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+
 
 
 
