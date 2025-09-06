@@ -180,13 +180,19 @@ http://192.168.1.41:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd5
 #EXTINF:-1 tvg-name="M+ Ellas V" tvg-id="MELLAV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png"  group-title="Movistar+", M+ Ellas Vamos
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MELLAV&url=https%3A%2F%2F1p-ellasv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MELLAV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5093
 
-#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png"  group-title="Movistar+", DAZN F1
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1
 http://192.168.1.41:6878/ace/getstream?id=ba6e1bdc8e03da60ff572557645eb04370af0cd0
 
-#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png"  group-title="Movistar+", DAZN F1
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1
 http://192.168.1.41:6878/ace/getstream?id=8c1155cdfae76eb582290c04904c98da066657c9
 
-#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png"  group-title="Movistar+", DAZN F1 SD
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1
+http://192.168.1.41:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1
+http://192.168.1.41:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1 SD
 http://192.168.1.41:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 
 #EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar+", DAZN 1
@@ -353,4 +359,5 @@ http://192.168.1.41:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0a
 
 #EXTINF:-1 tvg-name="M+ LaLiga HDR" tvg-id="M+ LaLiga HDR" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png"  group-title="Movistar+", M+ LALIGA HDR
 http://192.168.1.41:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+
 
