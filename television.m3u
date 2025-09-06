@@ -59,7 +59,7 @@ http://192.168.1.41:6878/ace/getstream?id=8c1155cdfae76eb582290c04904c98da066657
 #EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png", DAZN F1 SD
 http://192.168.1.41:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 
-#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png", DAZN 1
+#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png", DAZN 1 HDR
 http://192.168.1.41:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 
 #EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png", DAZN 1
@@ -68,23 +68,23 @@ http://192.168.1.41:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a
 #EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png", DAZN 1 SD
 http://192.168.1.41:6878/ace/getstream?id=ee4dc45720d3ec283f61189fbfc120c91d5141bf
 
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png", DAZN 2
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png", DAZN 2 HDR
 http://192.168.1.41:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png", DAZN 2
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png", DAZN 2 UHD
 http://192.168.1.41:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png", DAZN 2
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png", DAZN 2 FHD
 http://192.168.1.41:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
 
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png", DAZN 2
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png", DAZN 2 
 http://192.168.1.41:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 
 #EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png", DAZN 2 SD
 http://192.168.1.41:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 
 
-#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png", DAZN 3
+#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png", DAZN 3 HDR
 http://192.168.1.41:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
 
 #EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png", DAZN 3
@@ -101,5 +101,6 @@ http://192.168.1.41:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0a
 
 #EXTINF:-1 tvg-name="M+ LaLiga HDR" tvg-id="M+ LaLiga HDR" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png", M+ LALIGA HDR
 http://192.168.1.41:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+
 
 
