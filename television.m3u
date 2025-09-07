@@ -78,7 +78,7 @@ http://192.168.1.41:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173f
 http://192.168.1.41:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 
 #EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar+", DAZN 1 SD
-http://192.168.1.41:6878/ace/getstream?id=ee4dc45720d3ec283f61189fbfc120c91d5141bf
+http://192.168.1.41:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 
 #EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png", DAZN 2 HDR
 http://192.168.1.41:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
