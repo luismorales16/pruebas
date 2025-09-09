@@ -121,6 +121,9 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS&url=https%3A%2
 #EXTINF:-1 tvg-name="M+ LaLiga 2 HD" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Movistar+", M+ LALIGA 2
 http://192.168.1.41:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
 
+#EXTINF:-1 tvg-name="M+ LaLiga 2 HD" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Movistar+", M+ LALIGA 2
+http://192.168.1.41:6878/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d
+
 #EXTINF:-1 tvg-name="M+ LaLiga 2 HD" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Movistar+", M+ LALIGA 2 SD
 http://192.168.1.41:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 
