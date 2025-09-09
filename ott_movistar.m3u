@@ -137,22 +137,31 @@ http://192.168.1.41:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS2&url=https%3A%2F%2F2segdiv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MLIGS2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5127
 
 #EXTINF:-1 tvg-name="M+ Liga de Campeones HD" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png"  group-title="Movistar+", M+ Liga de Campeones
-http://192.168.1.41:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
-
-#EXTINF:-1 tvg-name="M+ Liga de Campeones HD" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png"  group-title="Movistar+", M+ Liga de Campeones
 http://192.168.1.41:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
 
+#EXTINF:-1 tvg-name="M+ Liga de Campeones HD" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png"  group-title="Movistar+", M+ Liga de Campeones
+http://192.168.1.41:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052
+
+#EXTINF:-1 tvg-name="M+ Liga de Campeones HD" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png"  group-title="Movistar+", M+ Liga de Campeones
+http://192.168.1.41:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba
+
 #EXTINF:-1 tvg-name="M+ Liga de Campeones HD" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png"  group-title="Movistar+", M+ Liga de Campeones SD
-http://192.168.1.41:6878/ace/getstream?id=680187938f9305cce3ae240298f10e8695bf77c2
+http://192.168.1.41:6878/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
 
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 2 HD" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png"  group-title="Movistar+", M+ Liga de Campeones 2
 http://192.168.1.41:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
 
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 2 HD" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png"  group-title="Movistar+", M+ Liga de Campeones 2
+http://192.168.1.41:6878/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30
+
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 2 HD" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png"  group-title="Movistar+", M+ Liga de Campeones 2 SD
-http://192.168.1.41:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+http://192.168.1.41:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
 
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 3 HD" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP2.png"  group-title="Movistar+", M+ Liga de Campeones 3
-http://192.168.1.41:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+http://192.168.1.41:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 3 HD" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP2.png"  group-title="Movistar+", M+ Liga de Campeones 3
+http://192.168.1.41:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
 
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 3 HD" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP2.png"  group-title="Movistar+", M+ Liga de Campeones 3 SD
 http://192.168.1.41:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
