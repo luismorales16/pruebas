@@ -167,10 +167,16 @@ http://192.168.1.41:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd0612
 http://192.168.1.41:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
 
 #EXTINF:-1 tvg-name="M+ Deportes HD" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png"  group-title="Movistar+", M+ Deportes
+http://192.168.1.41:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
+
+#EXTINF:-1 tvg-name="M+ Deportes HD" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png"  group-title="Movistar+", M+ Deportes
 http://192.168.1.41:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
 
-#EXTINF:-1 tvg-name="M+ Deportes HD" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png"  group-title="Movistar+", M+ Deportes SD
+#EXTINF:-1 tvg-name="M+ Deportes HD" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png"  group-title="Movistar+", M+ Deportes
 http://192.168.1.41:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
+
+#EXTINF:-1 tvg-name="M+ Deportes HD" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png"  group-title="Movistar+", M+ Deportes SD
+http://192.168.1.41:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 
 #EXTINF:-1 tvg-name="M+ Deportes 2 HD" tvg-id="M+ Deportes 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png"  group-title="Movistar+", M+ Deportes 2
 http://192.168.1.41:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
@@ -219,7 +225,7 @@ http://192.168.1.41:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a
 http://192.168.1.41:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 
 #EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png"  group-title="Movistar+", DAZN 2
-http://192.168.1.41:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+http://192.168.1.41:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-id="ESP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" group-title="Movistar+", Eurosport 1
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ESP&url=https%3A%2F%2Feurosport1-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ESP%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4605
