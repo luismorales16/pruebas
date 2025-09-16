@@ -73,7 +73,7 @@ http://192.168.1.41:6878/ace/getstream?id=911ad127726234b97658498a8b790fdd751654
 http://192.168.1.41:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 
 #EXTINF:-1 tvg-name="M+ Liga de Campeones HD" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png"  group-title="Movistar+", M+ Liga de Campeones HDR
-http://192.168.1.41:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
+http://192.168.1.41:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 
 #EXTINF:-1 tvg-name="M+ Liga de Campeones HD" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png"  group-title="Movistar+", M+ Liga de Campeones UHD 
 http://192.168.1.41:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052
@@ -165,6 +165,7 @@ http://192.168.1.41:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c2
 
 #EXTINF:-1 tvg-name="M+ Deportes 7" tvg-id="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI6.png"  group-title="Movistar+", M+ Deportes 7
 http://192.168.1.41:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932
+
 
 
 
