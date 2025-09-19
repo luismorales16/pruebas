@@ -40,10 +40,10 @@ http://192.168.1.41:6878/ace/getstream?id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bd
 http://192.168.1.41:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 
 #EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar+", DAZN LALIGA
-http://192.168.1.41:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
+http://192.168.1.41:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 
 #EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar+", DAZN LALIGA SD
-http://192.168.1.41:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://192.168.1.41:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 
 #EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar+", DAZN LALIGA 2
 http://192.168.1.41:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
@@ -165,6 +165,7 @@ http://192.168.1.41:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c2
 
 #EXTINF:-1 tvg-name="M+ Deportes 7" tvg-id="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI6.png"  group-title="Movistar+", M+ Deportes 7
 http://192.168.1.41:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932
+
 
 
 
