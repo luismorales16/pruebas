@@ -160,10 +160,11 @@ http://192.168.1.25:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d08790
 http://192.168.1.25:6878/ace/getstream?id=e4124b2143ed75e5ce902bed61be08cc5e5c3c03
 
 #EXTINF:-1 tvg-name="M+ Deportes 6" tvg-id="M+ Deportes 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI8.png"  group-title="Movistar+", M+ Deportes 6 SD
-http://192.168.1.41:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
+http://192.168.1.25:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
 
 #EXTINF:-1 tvg-name="M+ Deportes 7" tvg-id="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI6.png"  group-title="Movistar+", M+ Deportes 7
-http://192.168.1.41:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932
+http://192.168.1.25:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932
+
 
 
 
