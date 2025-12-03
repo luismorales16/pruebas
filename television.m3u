@@ -12,6 +12,8 @@ http://192.168.1.25:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040
 http://192.168.1.25:6878/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/T5.png" tvg-id="Telecinco HD" group-title="Movistar", Telecinco
 http://192.168.1.25:6878/ace/getstream?id=3e7b1911a1f83fd869b6995650a3057778259ca7
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/T5.png" tvg-id="Telecinco HD" group-title="Movistar", Telecinco
+http://192.168.1.25:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SEXTA.png" tvg-id="La Sexta HD" group-title="Movistar", La Sexta
 http://192.168.1.25:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOL.png" tvg-id="GOL" group-title="Movistar", GOL
@@ -48,6 +50,8 @@ http://192.168.1.25:6878/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31
 http://192.168.1.25:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
 #EXTINF:-1 tvg-name="Decasa" tvg-id="Decasa" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/91997942b1a123a5780616e03acfa3cb_DECASA-NUEVO-LOGO-CANALTUAMC.png"  group-title="Movistar", Decasa
 http://192.168.1.25:6878/ace/getstream?id=155d742120310a0ca80b0c8833d94979aa7f0b08
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCR.png"  group-title="Movistar", Discovery
+http://192.168.1.25:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Be%20Mad%20HD.png?raw=true" tvg-id="Be Mad" group-title="Movistar", BEMAD
 http://192.168.1.25:6878/ace/getstream?id=6e1b5fd8753352486aa932f802534a17556e1f60
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD" group-title="Movistar", Caza y Pesca
@@ -163,6 +167,14 @@ http://192.168.1.25:6878/ace/getstream?id=976983697790ab8a07b764b08843529d38bc64
 http://192.168.1.25:6878/ace/getstream?id=83c02982581a536d1321e38a77dc0c520b1cb842
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 8" tvg-id="M+ Liga de Campeones 8" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP7.png"  group-title="Movistar", M+ Liga de Campeones 8
 http://192.168.1.25:6878/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 9" tvg-id="M+ Liga de Campeones 9" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP8.png"  group-title="Movistar", M+ Liga de Campeones 9
+http://192.168.1.25:6878/ace/getstream?id=80abcb38122c25fefb4dffeb57086998447ff49b
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 10" tvg-id="M+ Liga de Campeones 10" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP9.png"  group-title="Movistar", M+ Liga de Campeones 10
+http://192.168.1.25:6878/ace/getstream?id=0103373118989085dd0d02667c629ee36d462cb1
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 11" tvg-id="M+ Liga de Campeones 11" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP10.png"  group-title="Movistar", M+ Liga de Campeones 11
+http://192.168.1.25:6878/ace/getstream?id=6e12a5849a4edea248ed9c8689e58bd66fc9f8fa
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 12" tvg-id="M+ Liga de Campeones 12" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP11.png"  group-title="Movistar", M+ Liga de Campeones 12
+http://192.168.1.25:6878/ace/getstream?id=130d37f9a68bd8f29f0d636dcde522a1e91d1cb7
 
 #EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar", DAZN 1
 http://192.168.1.25:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
@@ -272,6 +284,7 @@ http://192.168.1.25:6878/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c43410
 http://192.168.1.25:6878/ace/getstream?id=9be118a64eb603b5eb62be6cf27631d3891b5174
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" tvg-id="M+ Golf 2 HD" group-title="Movistar", M+ Golf 2
 http://192.168.1.25:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
+
 
 
 
