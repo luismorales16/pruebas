@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png" tvg-id="La 1 HD" group-title="Movistar", LA 1 UHD
-http://192.168.1.25:6878/ace/getstream?id=dad5e0e0825cb3e410008f1c4252387b868e740c
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8?hdnts=exp%3D1764772299%7Ehmac%3Dd575992a818b5286cc1849a75837db4b4de8718b20dab702d402348aff4d0ee1&idasset=1688877
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png" tvg-id="La 1 HD" group-title="Movistar", LA 1
-http://192.168.1.25:6878/ace/getstream?id=7597d4feb3195079ffa606cf23a183d626ee40ba
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LA2.png" tvg-id="La 2" group-title="Movistar", LA 2
-http://192.168.1.25:6878/ace/getstream?id=9934906503661142f97a044ae1509a294057c2ed
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/A3.png" tvg-id="Antena 3 HD" group-title="Movistar", Antena 3
 http://192.168.1.25:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png" tvg-id="Cuatro HD" group-title="Movistar", Cuatro
@@ -16,6 +16,10 @@ http://192.168.1.25:6878/ace/getstream?id=3e7b1911a1f83fd869b6995650a3057778259c
 http://192.168.1.25:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOL.png" tvg-id="GOL" group-title="Movistar", GOL
 http://192.168.1.25:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TDEP.png" tvg-id="Teledeporte" group-title="Movistar", Teledeporte UHD
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8?hdnts=exp%3D1764772391%7Ehmac%3D0b786ec02646225f41cc1fb95a1d1beee41b2a671df5efa05bb07022cf9ea632&idasset=1712295
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TDEP.png" tvg-id="Teledeporte" group-title="Movistar", Teledeporte
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/1200px-TEN_2024_Logo.svg.png" tvg-id="Ten" group-title="Movistar", Ten
 http://192.168.1.25:6878/ace/getstream?id=19cab799c86251ae8ae5f4b4faace9b78d784abc
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="Movistar", Movistar Plus+
@@ -119,7 +123,7 @@ http://192.168.1.25:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" tvg-id="LaLiga TV Hypermotion 3" group-title="Movistar", LALIGA TV HYPERMOTION 3
 http://192.168.1.25:6878/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones HDR
 http://192.168.1.25:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones
 http://192.168.1.25:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
@@ -268,6 +272,7 @@ http://192.168.1.25:6878/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c43410
 http://192.168.1.25:6878/ace/getstream?id=9be118a64eb603b5eb62be6cf27631d3891b5174
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" tvg-id="M+ Golf 2 HD" group-title="Movistar", M+ Golf 2
 http://192.168.1.25:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
+
 
 
 
