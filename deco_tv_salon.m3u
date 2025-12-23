@@ -77,6 +77,32 @@ http://192.168.1.25:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef950
 http://192.168.1.25:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales%20HD.png" tvg-id="M+ Originales HD" group-title="Movistar", Movistar Originales
 http://192.168.1.25:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CL13.png" tvg-id="Calle 13 HD" group-title="Movistar", Calle 13
+http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/56110.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA HDR
