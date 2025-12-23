@@ -27,6 +27,8 @@ https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8?hdnts=exp%3D1764772
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/1200px-TEN_2024_Logo.svg.png" tvg-id="Ten" group-title="Movistar", Ten
 http://192.168.1.25:6878/ace/getstream?id=19cab799c86251ae8ae5f4b4faace9b78d784abc
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TEN.png" tvg-id="Ten" group-title="Movistar", Ten SD
+http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/219454.ts
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="Movistar", Movistar Plus+ HDR
 http://192.168.1.25:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="Movistar", Movistar Plus+ HD
@@ -105,8 +107,7 @@ http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/54489.ts
 http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/53251.ts
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEGA.png" tvg-id="Mega" group-title="Movistar", Mega
 http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/203665.ts
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TEN.png" tvg-id="Ten" group-title="Movistar", Ten
-http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/219454.ts
+
 
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA HDR
 http://192.168.1.25:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
@@ -324,3 +325,5 @@ http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/54517.ts
 http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/54516.ts
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BOING.png" tvg-id="Boing" group-title="Movistar", Boing
 http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/56224.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CLANTV.png" tvg-id="Clan" group-title="Movistar", Clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8?idasset=5466990
