@@ -82,8 +82,6 @@ http://192.168.1.25:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef950
 http://192.168.1.25:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales%20HD.png" tvg-id="M+ Originales HD" group-title="Movistar", Movistar Originales
 http://192.168.1.25:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CL13.png" tvg-id="Calle 13 HD" group-title="Movistar", Calle 13
-http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/56110.ts
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MNAVID.png" tvg-id="M+ Navidad" group-title="Movistar", M+ Navidad
 http://192.168.1.25:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
 
@@ -205,8 +203,6 @@ http://192.168.1.25:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0a
 http://192.168.1.25:6878/ace/getstream?id=eb884f77ce8815cf1028c4d85e8b092c27ea1693
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png" tvg-id="DAZN Baloncesto" group-title="Movistar", DAZN Baloncesto
 http://192.168.1.25:6878/ace/getstream?id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png" tvg-id="DAZN Baloncesto" group-title="Movistar", DAZN Baloncesto SD
-http://192.168.1.25:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8f98
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB2.png" tvg-id="DAZN Baloncesto 2" group-title="Movistar", DAZN Baloncesto 2
 http://192.168.1.25:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB3.png" tvg-id="DAZN Baloncesto 3" group-title="Movistar", DAZN Baloncesto 3
@@ -223,13 +219,11 @@ http://192.168.1.25:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4
 http://192.168.1.25:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN LALIGA SD
 http://192.168.1.25:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2
+#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2 HDR
 http://192.168.1.25:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 #EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2
 http://192.168.1.25:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2
-http://192.168.1.25:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
-#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2
+#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2 SD
 http://192.168.1.25:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 
 
@@ -292,3 +286,4 @@ http://192.168.1.25:6878/ace/getstream?id=9be118a64eb603b5eb62be6cf27631d3891b51
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" tvg-id="M+ Golf 2 HD" group-title="Movistar", M+ Golf 2
 
 http://192.168.1.25:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
+
