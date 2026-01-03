@@ -273,5 +273,58 @@ http://192.168.1.25:6878/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37
 http://192.168.1.25:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
 
 
+#EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Acestream", M+ LALIGA HDR
+acestream://107c3ce5a5d2527c9f06e4eab87477201791f231
+#EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Acestream", M+ LALIGA
+acestream://8c30b600cc48899991b452805df48b68d998e61c
+#EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Acestream", M+ LALIGA
+acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
+#EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Acestream", M+ LALIGA
+acestream://4b528d10eaad747ddf52251206177573ee3e9f74
+#EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Acestream", M+ LALIGA
+acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1 tvg-name="M+ LaLiga 2 HD" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Acestream", M+ LALIGA 2
+acestream://51b363b1c4d42724e05240ad068ad219df8042ec
+#EXTINF:-1 tvg-name="M+ LaLiga 2 HD" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Acestream", M+ LALIGA 2
+acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" tvg-id="M+ LaLiga 3 HD" group-title="Acestream", M+ LALIGA 3
+acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" tvg-id="M+ LaLiga 3 HD" group-title="Acestream", M+ LALIGA 3
+acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG3.png" tvg-id="M+ LaLiga 4" group-title="Acestream", M+ LALIGA 4
+acestream://2a6b1fd8a24b23747db1ea534a51457708523602
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG3.png" tvg-id="M+ LaLiga 4" group-title="Acestream", M+ LALIGA 4
+acestream://1bcee22d5476f2eae9dc2cb24e3685152cf285cb
 
-
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="M+ Deportes HD" group-title="Acestream", M+ Deportes
+acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="M+ Deportes HD" group-title="Acestream", M+ Deportes
+acestream://5d3f582738467aaf213e408601aca5cc13fa9359
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="M+ Deportes HD" group-title="Acestream", M+ Deportes SD
+acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="M+ Deportes 2 HD" group-title="Acestream", M+ Deportes 2
+acestream://6e212a916c83638268047dd2757c95b14f7d25a3
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="M+ Deportes 2 HD" group-title="Acestream", M+ Deportes 2
+acestream://73d38feaa770d788848ec098470e32670fe55a61
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="M+ Deportes 2 HD" group-title="Acestream", M+ Deportes 2
+acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="M+ Deportes 2 HD" group-title="Acestream", M+ Deportes 2 SD
+acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" tvg-id="M+ Deportes 3" group-title="Acestream", M+ Deportes 3
+acestream://29d786d72d4b53dbc333af3a50f8fb021aa0296f
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" tvg-id="M+ Deportes 3" group-title="Acestream", M+ Deportes 3
+acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" tvg-id="M+ Deportes 3" group-title="Acestream", M+ Deportes 3 SD
+acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png" tvg-id="M+ Deportes 4" group-title="Acestream", M+ Deportes 4
+acestream://58a4c880ab18486d914751db32a12760e74b75a4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png" tvg-id="M+ Deportes 4" group-title="Acestream", M+ Deportes 4
+acestream://37825883ed185365e3194a79207347f6c7bd5ba5
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png" tvg-id="M+ Deportes 4" group-title="Acestream", M+ Deportes 4 SD
+acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png" tvg-id="M+ Deportes 5" group-title="Acestream", M+ Deportes 5
+acestream://5913205fb6d6d162a50222709aab6129eb7cf916
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png" tvg-id="M+ Deportes 5" group-title="Acestream", M+ Deportes 5
+acestream://6dc4ac4eeae18e9daec433b01db82435cf84c57c
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png" tvg-id="M+ Deportes 5" group-title="Acestream", M+ Deportes 5 SD
+acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
