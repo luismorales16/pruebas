@@ -36,6 +36,8 @@ http://192.168.1.25:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e4
 http://192.168.1.25:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD" group-title="Movistar", M+ Vamos
 http://192.168.1.25:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png" tvg-id="M+ Vamos 2" group-title="Movistar", M+ Vamos 2
+http://192.168.1.25:6878/ace/getstream?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png" tvg-id="M+ Ellas Vamos HD" group-title="Movistar", M+ Ellas Vamos
 http://192.168.1.25:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png" tvg-id="M+ Ellas Vamos HD" group-title="Movistar", M+ Ellas Vamos
@@ -326,3 +328,4 @@ acestream://5913205fb6d6d162a50222709aab6129eb7cf916
 acestream://6dc4ac4eeae18e9daec433b01db82435cf84c57c
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png" tvg-id="M+ Deportes 5" group-title="Acestream", M+ Deportes 5 SD
 acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
+
