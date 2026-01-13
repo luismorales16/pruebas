@@ -12,7 +12,7 @@ http://192.168.1.25:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040
 http://192.168.1.25:6878/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/T5.png" tvg-id="Telecinco HD" group-title="Movistar", Telecinco
 http://192.168.1.25:6878/ace/getstream?id=3e7b1911a1f83fd869b6995650a3057778259ca7
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/T5.png" tvg-id="Telecinco HD" group-title="Movistar", Telecinco
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/T5.png" tvg-id="Telecinco HD" group-title="Movistar", Telecinco SD
 http://192.168.1.25:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SEXTA.png" tvg-id="La Sexta HD" group-title="Movistar", La Sexta
 http://192.168.1.25:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
@@ -224,4 +224,5 @@ http://192.168.1.25:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5
 http://192.168.1.25:6878/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" tvg-id="M+ Golf 2 HD" group-title="Movistar", M+ Golf 2
 http://192.168.1.25:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
+
 
