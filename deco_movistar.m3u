@@ -45,7 +45,7 @@ http://192.168.1.25:6878/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png" tvg-id="Primera Federación" group-title="Movistar", Primera Federación SD
 http://192.168.1.25:6878/ace/getstream?id=b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" tvg-id="Canal Cocina" group-title="Movistar", Canal Cocina
-http://192.168.1.25:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
+http://127.0.0.1:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
 #EXTINF:-1 tvg-name="Decasa" tvg-id="Decasa" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/91997942b1a123a5780616e03acfa3cb_DECASA-NUEVO-LOGO-CANALTUAMC.png"  group-title="Movistar", Decasa
 http://192.168.1.25:6878/ace/getstream?id=155d742120310a0ca80b0c8833d94979aa7f0b08
 #EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCR.png"  group-title="Movistar", Discovery
