@@ -1,13 +1,102 @@
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="Movistar", Movistar Plus+
+http://vlc.shickat.me:8000/pid/b6ffbbc72a5b6b579faf79ebac229af7a25b933b/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="Movistar", Movistar Plus+ SD
+http://vlc.shickat.me:8000/pid/1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD" group-title="Movistar", M+ Vamos
+http://vlc.shickat.me:8000/pid/2940120bf034db79a7f5849846ccea0255172eae/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD" group-title="Movistar", M+ Vamos SD
+http://vlc.shickat.me:8000/pid/0e5d8c9724fa9163f49096b70484e315251eb785/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png" tvg-id="M+ Vamos 2" group-title="Movistar", M+ Vamos 2
+http://vlc.shickat.me:8000/pid/fbc39d8a9e5d7c9ac6a1438d440104620f54e09c/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png" tvg-id="M+ Ellas Vamos HD" group-title="Movistar", M+ Ellas Vamos
+http://vlc.shickat.me:8000/pid/9b84af74b2fa3690c519199326fc2f181b025cdd/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png" tvg-id="M+ Ellas Vamos HD" group-title="Movistar", M+ Ellas Vamos SD
+http://vlc.shickat.me:8000/pid/594b59d435527327c9b6965f247995b907bfc285/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png" tvg-id="Primera Federación" group-title="Movistar", Primera Federación
+http://vlc.shickat.me:8000/pid/599a2fda91aa55703e2c5a51562d9dbf5d3d31d9/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png" tvg-id="Primera Federación" group-title="Movistar", Primera Federación SD
+http://vlc.shickat.me:8000/pid/b40212c43e96e97542ea00f2129212a054853a57/stream.mp4
+
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA HDR
 http://vlc.shickat.me:8000/pid/00c9bc9c5d7d87680a5a6bed349edfa775a89947/stream.mp4
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA
 http://vlc.shickat.me:8000/pid/c9321006921967d6258df6945f1d598a5c0cbf1e/stream.mp4
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA SD
 http://vlc.shickat.me:8000/pid/8c30b600cc48899991b452805df48b68d998e61c/stream.mp4
+#EXTINF:-1 tvg-name="M+ LaLiga 2 HD" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Movistar", M+ LALIGA 2
+http://vlc.shickat.me:8000/pid/51b363b1c4d42724e05240ad068ad219df8042ec/stream.mp4
+#EXTINF:-1 tvg-name="M+ LaLiga 2 HD" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Movistar", M+ LALIGA 2 SD
+http://vlc.shickat.me:8000/pid/ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" tvg-id="M+ LaLiga 3 HD" group-title="Movistar", M+ LALIGA 3
+http://vlc.shickat.me:8000/pid/7ad14386deef2f45ffe17d30a631dbf79b6a1a87/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" tvg-id="M+ LaLiga 3 HD" group-title="Movistar", M+ LALIGA 3 SD
+http://vlc.shickat.me:8000/pid/382b14499e3d76e557d449d2e5bbc4e4bd63bd39/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG3.png" tvg-id="M+ LaLiga 4" group-title="Movistar", M+ LALIGA 4
+http://vlc.shickat.me:8000/pid/2a6b1fd8a24b23747db1ea534a51457708523602/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG3.png" tvg-id="M+ LaLiga 4" group-title="Movistar", M+ LALIGA 4 SD
+http://vlc.shickat.me:8000/pid/1bcee22d5476f2eae9dc2cb24e3685152cf285cb/stream.mp4
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones HDR
 http://vlc.shickat.me:8000/pid/afbf2a479c5a5072698139f0f556ef3e77a99bd0/stream.mp4
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones
-http://vlc.shickat.me:8000/pid/9db029dff6a9c637d1f670e78dbc1a479b9b406e/stream.mp4
+http://vlc.shickat.me:8000/pid/97df5b7824948972d041d8ca2a4d29c90b641bc9/stream.mp4
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones SD
-http://vlc.shickat.me:8000/pid/b028202ff335911db3118bceac027df3e8ef6c32/stream.mp4
+http://vlc.shickat.me:8000/pid/2b51710cee513e8939785fa3e7980f32d4e0415f/stream.mp4
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 2 HD" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png"  group-title="Movistar", M+ Liga de Campeones 2 HDR
+http://192.168.1.25:6878/ace/getstream?id=4b18a3b32df5960ed950fa907f8d509b1ad2a188
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 2 HD" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png"  group-title="Movistar", M+ Liga de Campeones 2
+http://192.168.1.25:6878/ace/getstream?id=ea03cc51980996ba6f2da49e30eee1de8a66ae54
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 2 HD" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png"  group-title="Movistar", M+ Liga de Campeones 2
+http://192.168.1.25:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 2 HD" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png"  group-title="Movistar", M+ Liga de Campeones 2 SD
+http://192.168.1.25:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 3 HD" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP2.png"  group-title="Movistar", M+ Liga de Campeones 3
+http://192.168.1.25:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 3 HD" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP2.png"  group-title="Movistar", M+ Liga de Campeones 3 SD
+http://192.168.1.25:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 4" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png"  group-title="Movistar", M+ Liga de Campeones 4
+http://192.168.1.25:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 5" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP4.png"  group-title="Movistar", M+ Liga de Campeones 5
+http://192.168.1.25:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
+
+
+#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar", DAZN 1
+http://vlc.shickat.me:8000/pid/b03f9310155cf3b4eafc1dfba763781abc3ff025/stream.mp4
+#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar", DAZN 1 SD
+http://vlc.shickat.me:8000/pid/7ba1f321f4d0791b7ebd42f41a07c1cd1479e784/stream.mp4
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png"  group-title="Movistar", DAZN 2
+http://vlc.shickat.me:8000/pid/8b081c8afbd9beafc8c5fbf0115eb36eadb07a35/stream.mp4
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png"  group-title="Movistar", DAZN 2
+http://vlc.shickat.me:8000/pid/fb2dd566824658eeab27aae19a01c09430f1a97d/stream.mp4
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png"  group-title="Movistar", DAZN 2
+http://vlc.shickat.me:8000/pid/43004e955731cd3afcc34d24e5178d4b427bff37/stream.mp4
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png"  group-title="Movistar", DAZN 2 SD
+http://vlc.shickat.me:8000/pid/ae68a0835039fab28fd2314108fabd4fab33b8ab/stream.mp4
+#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png"  group-title="Movistar", DAZN 3
+http://vlc.shickat.me:8000/pid/8a86cd6152154a25ad4b76523160552a40313b28/stream.mp4
+#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png"  group-title="Movistar", DAZN 3
+http://vlc.shickat.me:8000/pid/8a86cd6152154a25ad4b76523160552a40313b28/stream.mp4
+#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png"  group-title="Movistar", DAZN 3 SD
+http://vlc.shickat.me:8000/pid/4e401fdceebffdf1f09aef954844d09f6c62f460/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" tvg-id="DAZN 4 HD" group-title="Movistar", DAZN 4
+http://vlc.shickat.me:8000/pid/7e27e46c25d4308d16098d9dc67fcd8736e8c1f0/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" tvg-id="DAZN 4 HD" group-title="Movistar", DAZN 4
+http://vlc.shickat.me:8000/pid/c015d37d1ead8155b1e7b97e743a1fe9850f0af5/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" tvg-id="DAZN 4 HD" group-title="Movistar", DAZN 4 SD
+http://vlc.shickat.me:8000/pid/eb884f77ce8815cf1028c4d85e8b092c27ea1693/stream.mp4
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" group-title="Movistar", DAZN F1
+http://vlc.shickat.me:8000/pid/bcf9dc38f92e90a71b87bd54b3bac91b76d09a69/stream.mp4
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" group-title="Movistar", DAZN F1
+http://vlc.shickat.me:8000/pid/b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1/stream.mp4
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" group-title="Movistar", DAZN F1 SD
+http://vlc.shickat.me:8000/pid/ed6188dcbb491efeb2092c1a6199226c27f61727/stream.mp4
+#EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN LALIGA HDR
+http://vlc.shickat.me:8000/pid/0e50439e68aa2435b38f0563bb2f2e98f32ff4b1/stream.mp4
+#EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN LALIGA
+http://vlc.shickat.me:8000/pid/e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05/stream.mp4
+#EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN LALIGA SD
+http://vlc.shickat.me:8000/pid/4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f/stream.mp4
+#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2
+http://vlc.shickat.me:8000/pid/5091ea94b75ba4b50b078b4102a3d0e158ef59c3/stream.mp4
+#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2 SD
+http://vlc.shickat.me:8000/pid/c976c7b37964322752db562b4ad65515509c8d36/stream.mp4
