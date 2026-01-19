@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="Movistar", Movistar Plus+
 http://vlc.shickat.me:8000/pid/b6ffbbc72a5b6b579faf79ebac229af7a25b933b/stream.mp4
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="Movistar", Movistar Plus+ SD
