@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png" tvg-id="La 1 HD" group-title="Movistar", LA 1 UHD
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8?hdnts=exp%3D1764772299%7Ehmac%3Dd575992a818b5286cc1849a75837db4b4de8718b20dab702d402348aff4d0ee1&idasset=1688877
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png" tvg-id="La 1 HD" group-title="Movistar", LA 1
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8?hdnts=exp%3D1764772299%7Ehmac%3Dd575992a818b5286cc1849a75837db4b4de8718b20dab702d402348aff4d0ee1&idasset=1688877
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LA2.png" tvg-id="La 2" group-title="Movistar", LA 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/A3.png" tvg-id="Antena 3 HD" group-title="Movistar", Antena 3
