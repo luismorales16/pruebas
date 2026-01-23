@@ -122,6 +122,10 @@ http://vlc.shickat.me:8000/pid/5bed693c6a22de55f1061c509bba5e3aeb2ea2aa/stream.m
 http://vlc.shickat.me:8000/pid/5620c0ce3dcbf14a6375cb2c2d681207f45eb97d/stream.mp4
 
 
+
+
+#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar", DAZN 1
+http://vlc.shickat.me:8000/pid/4141892f5df7d6474bf0279895ce02b7336c9928/stream.mp4
 #EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar", DAZN 1
 http://vlc.shickat.me:8000/pid/9afc89481b721ce6c326c85e47148676077b8e62/stream.mp4
 #EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar", DAZN 1 SD
