@@ -95,9 +95,9 @@ http://vlc.shickat.me:8000/pid/1fdb405a6942da0941266f24cdd1c71b11552f1f/stream.m
 
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones
-http://vlc.shickat.me:8000/pid/9db029dff6a9c637d1f670e78dbc1a479b9b406e/stream.mp4
+http://vlc.shickat.me:8000/pid/97df5b7824948972d041d8ca2a4d29c90b641bc9/stream.mp4
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones SD
-http://vlc.shickat.me:8000/pid/2b51710cee513e8939785fa3e7980f32d4e0415f/stream.mp4
+http://vlc.shickat.me:8000/pid/b028202ff335911db3118bceac027df3e8ef6c32/stream.mp4
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 2 HD" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png"  group-title="Movistar", M+ Liga de Campeones 2 UHD
 http://vlc.shickat.me:8000/pid/bb26037a253866d341778181eff5c8637240d615/stream.mp4
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 2 HD" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png"  group-title="Movistar", M+ Liga de Campeones 2
