@@ -36,7 +36,7 @@ http://192.168.1.25:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed84
 #EXTINF:-1 tvg-name="Decasa" tvg-id="Decasa" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/91997942b1a123a5780616e03acfa3cb_DECASA-NUEVO-LOGO-CANALTUAMC.png"  group-title="Movistar", Decasa
 http://192.168.1.25:6878/ace/getstream?id=155d742120310a0ca80b0c8833d94979aa7f0b08
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CAZPES.png" tvg-id="Caza y Pesca HD" group-title="Movistar", Caza y Pesca
-http://192.168.1.25:6878/ace/getstream?id=8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa
+http://192.168.1.25:6878/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPACCI.png" tvg-id="M+ Acción HD" group-title="Movistar", Movistar Acción
 http://192.168.1.25:6878/ace/getstream?id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" tvg-id="M+ Cine Español" group-title="Movistar", Movistar Cine Español
@@ -172,6 +172,7 @@ http://192.168.1.25:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf9
 http://192.168.1.25:6878/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" tvg-id="M+ Golf 2 HD" group-title="Movistar", M+ Golf 2
 http://192.168.1.25:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
+
 
 
 
