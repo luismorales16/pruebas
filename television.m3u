@@ -119,9 +119,13 @@ http://192.168.1.25:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fe
 http://192.168.1.25:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 1 HD" group-title="Movistar", EUROSPORT 1
-http://192.168.1.25:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
+http://192.168.1.25:6878/ace/getstream?id=19ce0a7a8cfa0dbf28dfd90061b1f50a6f307b3c
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 1 HD" group-title="Movistar", EUROSPORT 1
+http://192.168.1.25:6878/ace/getstream?id=51283456a55830ee48b50df7df27cc9d22382b2a
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 1 HD" group-title="Movistar", EUROSPORT 1
+http://192.168.1.25:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png" tvg-id="Eurosport 2" group-title="Movistar", EUROSPORT 2
-http://192.168.1.25:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
+http://192.168.1.25:6878/ace/getstream?id=ecca00b1faca6383c8708a1177da783091cae73c
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="M+ Deportes HD" group-title="Movistar", M+ Deportes
 http://192.168.1.25:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="M+ Deportes 2 HD" group-title="Movistar", M+ Deportes 2
@@ -136,6 +140,7 @@ http://192.168.1.25:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a
 http://192.168.1.25:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" tvg-id="M+ Golf 2 HD" group-title="Movistar", M+ Golf 2
 http://192.168.1.25:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
+
 
 
 
