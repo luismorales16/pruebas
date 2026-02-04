@@ -17,9 +17,9 @@ http://192.168.1.25:6878/ace/getstream?id=9fb99c40a2c45d5c5342b30626eb56140f9806
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8?hdnts=exp%3D1764772391%7Ehmac%3D0b786ec02646225f41cc1fb95a1d1beee41b2a671df5efa05bb07022cf9ea632&idasset=1712295
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TDEP.png" tvg-id="Teledeporte" group-title="Movistar", Teledeporte
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="Movistar", Movistar Plus+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="Movistar", Movistar Plus+ FHD
 http://192.168.1.25:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="Movistar", Movistar Plus+ SD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="Movistar", Movistar Plus+
 http://192.168.1.25:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD" group-title="Movistar", M+ Vamos
 http://192.168.1.25:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
@@ -60,7 +60,7 @@ http://192.168.1.25:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae31
 
 
 
-#EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA HDR
+#EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA FHD
 http://192.168.1.25:6878/ace/getstream?id=ef2d1f8b11deee128d63c9cc7af45a13fab8c90c
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA
 http://192.168.1.25:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
@@ -71,16 +71,14 @@ http://192.168.1.25:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e18
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG3.png" tvg-id="M+ LaLiga 4" group-title="Movistar", M+ LALIGA 4
 http://192.168.1.25:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga TV Hypermotion HD" group-title="Movistar", LALIGA TV HYPERMOTION FHD
+http://192.168.1.25:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga TV Hypermotion HD" group-title="Movistar", LALIGA TV HYPERMOTION
-http://192.168.1.25:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga TV Hypermotion HD" group-title="Movistar", LALIGA TV HYPERMOTION SD
-http://192.168.1.25:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
+http://192.168.1.25:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="Movistar", LALIGA TV HYPERMOTION 2
-http://192.168.1.25:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="Movistar", LALIGA TV HYPERMOTION 2 SD
 http://192.168.1.25:6878/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" tvg-id="LaLiga TV Hypermotion 3" group-title="Movistar", LALIGA TV HYPERMOTION 3
-http://192.168.1.25:6878/ace/getstream?id=1fdb405a6942da0941266f24cdd1c71b11552f1f
+http://192.168.1.25:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones
 http://192.168.1.25:6878/ace/getstream?id=075046a3127123ac964468f365dd75c8b7a263ce
@@ -114,7 +112,7 @@ http://192.168.1.25:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804b
 #EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN LALIGA UHD
 http://192.168.1.25:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN LALIGA
-http://192.168.1.25:6878/ace/getstream?id=19f28f60c908f987b1a03da078e63320d7bf29e8
+http://192.168.1.25:6878/ace/getstream?id=3b5692a70c0d0d1dd23fed31d7886b4aaa64bdaa
 #EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2
 http://192.168.1.25:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
 #EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2 SD
@@ -138,6 +136,7 @@ http://192.168.1.25:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a
 http://192.168.1.25:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" tvg-id="M+ Golf 2 HD" group-title="Movistar", M+ Golf 2
 http://192.168.1.25:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
+
 
 
 
