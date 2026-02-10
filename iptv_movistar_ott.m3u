@@ -47,3 +47,20 @@ plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d83681580
 plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN LALIGA
 plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 1 HD" group-title="Movistar", EUROSPORT 1
+plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png" tvg-id="Eurosport 2" group-title="Movistar", EUROSPORT 2
+plugin://script.module.horus?action=play&id=ecca00b1faca6383c8708a1177da783091cae73c
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="M+ Deportes HD" group-title="Movistar", M+ Deportes
+plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="M+ Deportes 2 HD" group-title="Movistar", M+ Deportes 2
+plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" tvg-id="M+ Deportes 3" group-title="Movistar", M+ Deportes 3
+plugin://script.module.horus?action=play&id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png" tvg-id="M+ Deportes 4" group-title="Movistar", M+ Deportes 4
+plugin://script.module.horus?action=play&id=8b5f9d967384afab226dd759e6e9dfaee9993869
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png" tvg-id="M+ Deportes 5" group-title="Movistar", M+ Deportes 5
+plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d547a90
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF+.png" tvg-id="M+ Golf HD" group-title="Movistar", M+ Golf
+plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
