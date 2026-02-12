@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png" tvg-id="La 1 HD" group-title="Movistar", LA 1
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8?hdnts=exp%3D1764772299%7Ehmac%3Dd575992a818b5286cc1849a75837db4b4de8718b20dab702d402348aff4d0ee1&idasset=1688877
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LA2.png" tvg-id="La 2" group-title="Movistar", LA 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/A3.png" tvg-id="Antena 3 HD" group-title="Movistar", Antena 3
@@ -20,8 +20,6 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=VAMOSD&url=https%3A%
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ANTV&url=https%3A%2F%2Fcsur-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ANTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4764
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" tvg-id="Canal Cocina" group-title="Movistar", Canal Cocina
 http://192.168.1.25:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
-#EXTINF:-1 tvg-name="Decasa" tvg-id="Decasa" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/91997942b1a123a5780616e03acfa3cb_DECASA-NUEVO-LOGO-CANALTUAMC.png"  group-title="Movistar", Decasa
-http://192.168.1.25:6878/ace/getstream?id=155d742120310a0ca80b0c8833d94979aa7f0b08
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BEMAD.png" tvg-id="Be Mad" group-title="Movistar", BEMAD
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BEMAD&url=https%3A%2F%2Fbemad-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BEMAD%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4560
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPACCI.png" tvg-id="M+ Acción HD" group-title="Movistar", Movistar Acción
