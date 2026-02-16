@@ -69,7 +69,7 @@ http://192.168.1.25:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e18
 http://192.168.1.25:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga TV Hypermotion HD" group-title="Movistar", LALIGA TV HYPERMOTION
-http://192.168.1.25:6878/ace/getstream?id=1f75d92098580443857caa95a719103cb83781b0
+http://192.168.1.25:6878/ace/getstream?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="Movistar", LALIGA TV HYPERMOTION 2
 http://192.168.1.25:6878/ace/getstream?id=3a21e651c0bffe810cfc8537065cb81f5ed68a55
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" tvg-id="LaLiga TV Hypermotion 3" group-title="Movistar", LALIGA TV HYPERMOTION 3
