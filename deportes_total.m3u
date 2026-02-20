@@ -36,9 +36,9 @@ plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc2
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" tvg-id="DAZN 4 HD" group-title="Movistar", DAZN 4
 plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png" tvg-id="DAZN Baloncesto" group-title="Movistar", DAZN Baloncesto
-plugin://script.module.horus?action=play&id=8faa686a99697b99261346e479ead172b1d9d5d2
+plugin://script.module.horus?action=play&id=53962d7fb865aff73b34a3afb2905cd492f60d75
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB2.png" tvg-id="DAZN Baloncesto 2" group-title="Movistar", DAZN Baloncesto 2
-plugin://script.module.horus?action=play&id=d7e6b6bb1666740a21099fe6ceb0178a14f58e0c
+plugin://script.module.horus?action=play&id=22b702984a0db43fd371c30e2df150b2336551cd
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB3.png" tvg-id="DAZN Baloncesto 3" group-title="Movistar", DAZN Baloncesto 3
 plugin://script.module.horus?action=play&id=119087e842ea8857124b9405b10bb6cfffd2900c
 #EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recortel/m-DPBLAN/guiamovil/MVF1.png" group-title="Movistar", DAZN F1 UHD
