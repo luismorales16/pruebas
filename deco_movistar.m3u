@@ -44,7 +44,9 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MORIG&url=https%3A%2
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TCM.png" tvg-id="TCM HD" group-title="Movistar", TCM
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TCM&url=https%3A%2F%2Ftcm-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TCM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4603
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SET.png" tvg-id="AXN Movies HD" group-title="Movistar", AXN Movies
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SET&url=https%3A%2F%2Fmoviesaxn-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22SET%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4535
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SET&url=https%3A%2F%2Fmoviesaxn-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_req
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SQUI.png" tvg-id="Squirrel TV" group-title="Movistar", Squirrel
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SQUI&url=https%3A%2F%2Ftvsquirrel-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22SQUI%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5509
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FOXGE.png" tvg-id="STAR Channel HD" group-title="Movistar", STAR Channel
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=FOXGE&url=https%3A%2F%2F01star-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22FOXGE%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4528
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/AXN.png" tvg-id="AXN HD" group-title="Movistar", AXN
@@ -104,7 +106,7 @@ http://192.168.1.25:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" tvg-id="M+ Deportes 3" group-title="Movistar", M+ Deportes 3
 http://192.168.1.25:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png" tvg-id="M+ Ellas Vamos HD" group-title="Movistar", M+ Vamos 3
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MELLAV&url=https%3A%2F%2F1p-ellasv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MELLAV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5093
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MELLAV&url=https%3A%2F%2Fm3vamo-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MELLAV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5093
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF+.png" tvg-id="M+ Golf HD" group-title="Movistar", M+ Golf
 http://192.168.1.25:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" tvg-id="M+ Golf 2 HD" group-title="Movistar", M+ Golf 2
