@@ -190,6 +190,8 @@ http://192.168.1.25:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b6
 http://192.168.1.25:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png" tvg-id="M+ Deportes 5" group-title="Movistar", M+ Deportes 5
 http://192.168.1.25:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" tvg-id="M+ Deportes 6" group-title="Movistar", M+ Deportes 6
+http://192.168.1.25:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
 #EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png"  group-title="Movistar", DAZN 3
 http://192.168.1.25:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png"  group-title="Movistar", DAZN 3
