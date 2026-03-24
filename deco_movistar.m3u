@@ -151,7 +151,7 @@ http://192.168.1.25:6878/ace/getstream?id=22b702984a0db43fd371c30e2df150b2336551
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCRMAX.png" tvg-id="DMAX" group-title="Movistar", DMAX
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=DCRMAX&url=https%3A%2F%2Fdmax-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22DCRMAX%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5244
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB3.png" tvg-id="DAZN Baloncesto 3" group-title="Movistar", DAZN Baloncesto 3
-http://192.168.1.25:6878/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
+http://192.168.1.25:6878/ace/getstream?id=02ec118ee4586d96df9115ffc486be9a499d00d9
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DKISS.png" tvg-id="DKISS" group-title="Movistar", DKISS
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=DKISS&url=https%3A%2F%2Fdkiss-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22DKISS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5246
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DIVINI.png" tvg-id="Divinity" group-title="Movistar", Divinity
@@ -192,6 +192,8 @@ http://192.168.1.25:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee99938
 http://192.168.1.25:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" tvg-id="M+ Deportes 6" group-title="Movistar", M+ Deportes 6
 http://192.168.1.25:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" tvg-id="M+ Deportes 7" group-title="Movistar", M+ Deportes 7
+http://192.168.1.25:6878/ace/getstream?id=2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda
 #EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png"  group-title="Movistar", DAZN 3
 http://192.168.1.25:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png"  group-title="Movistar", DAZN 3
