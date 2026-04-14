@@ -45,6 +45,10 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=PCM&url=https%3A%2F%
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CL13&url=https%3A%2F%2Fcalle13-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CL13%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4532
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/COSMO.png" tvg-id="Cosmo HD" group-title="Movistar", COSMO
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=COSMO&url=https%3A%2F%2Fcosmo-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22COSMO%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4533
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/L2000.png" tvg-id="M+ Los 2000" group-title="Movistar", M+ Los 2000
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=L2000&url=https%3A%2F%2F1popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22L2000%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4955
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TOPCOM.png" tvg-id="M+ Top Comedia Española" group-title="Movistar", M+ Top Comedia Española
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TOPCOM&url=https%3A%2F%2F02popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TOPCOM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5252
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SCI-FI.png" tvg-id="SyFy HD" group-title="Movistar", SYFY
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SCI-FI&url=https%3A%2F%2Fsyfy-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22SCI-FI%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4536
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VEO7.png" tvg-id="Veo7" group-title="Movistar", Veo7
