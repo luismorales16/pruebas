@@ -45,7 +45,7 @@ http://192.168.1.25:6878/ace/getstream?id=e1ccce973c71547a8acda770885cb1c30a9cf3
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" tvg-id="DAZN 4 HD" group-title="Movistar", DAZN 4
 http://192.168.1.25:6878/ace/getstream?id=d669c6cee7173a1c8994075f7050a6526655b1dc
 #EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" group-title="Movistar", DAZN F1
-http://192.168.1.25:6878/ace/getstream?id=724f9b252b11064e3f16220717fd52bd3a510b5f
+http://192.168.1.25:6878/ace/getstream?id=6d325cda6ed591647ef5e91edd043147bce8be30
 #EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" group-title="Movistar", DAZN F1 SD
 http://192.168.1.25:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-name="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="Movistar", DAZN MotoGP
