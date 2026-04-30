@@ -121,7 +121,7 @@ http://192.168.1.25:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7
 #EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" group-title="Movistar", DAZN F1
 http://192.168.1.25:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" group-title="Movistar", DAZN F1
-http://192.168.1.25:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
+http://192.168.1.25:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-name="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="Movistar", DAZN MotoGP
 http://192.168.1.25:6878/ace/getstream?id=129c707eb4854171d178a566f36d90b7f2b5e624
 #EXTINF:-1 tvg-name="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="Movistar", DAZN MotoGP
@@ -157,7 +157,7 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NATGW&url=https%3A%2
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCR.png" tvg-id="Discovery" group-title="Movistar", Discovery
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=DCR&url=https%3A%2F%2Fdiscovery-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22DCR%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4545
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png" tvg-id="DAZN Baloncesto" group-title="Movistar", DAZN Baloncesto
-http://192.168.1.25:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
+http://192.168.1.25:6878/ace/getstream?id=0995b9b77ac6198dd92141369707fb99da09bdb2
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png" tvg-id="DAZN Baloncesto" group-title="Movistar", DAZN Baloncesto
 http://192.168.1.25:6878/ace/getstream?id=23bee556c002d0726c1f0cac98a1901cff0a9239
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB2.png" tvg-id="DAZN Baloncesto 2" group-title="Movistar", DAZN Baloncesto 2
