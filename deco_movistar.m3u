@@ -146,8 +146,6 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TDEP&url=https%3A%2F
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=REALM&url=https%3A%2F%2Frealmadrid-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22REALM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5198
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CAZPES.png" tvg-id="Caza y Pesca HD" group-title="Movistar", Caza y Pesca
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CAZPES&url=https%3A%2F%2Fcazaypesca-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CAZPES%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4606
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GARAGE.png" tvg-id="Garage TV" group-title="Movistar", Garage TV
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=GARAGE&url=https%3A%2F%2Fgaragetv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22GARAGE%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5273
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/UBEAT.png" tvg-id="UBEAT" group-title="Movistar", UBEAT
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=UBEAT&url=https%3A%2F%2Fubeat-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22UBEAT%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4886
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png" tvg-id="National Geographic HD" group-title="Movistar", National Geographic
@@ -178,7 +176,7 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MEGA&url=https%3A%2F
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TEN&url=https%3A%2F%2Ftvten-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TEN%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5253
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BABY.png" tvg-id="Baby TV" group-title="Movistar", Baby TV
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BABY&url=https%3A%2F%2Fbabytv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BABY%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4508
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PLAYDC.png" tvg-id="Disney Channel" group-title="Movistar", Disney Junior
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PLAYDC.png" tvg-id="Disney Channel" group-title="Movistar", Disney Channel
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=PLAYDC&url=https%3A%2F%2Fjrdisney-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22PLAYDC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4509
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NICKJR.png" tvg-id="Nick JR" group-title="Movistar", Nick JR
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NICKJR&url=https%3A%2F%2Fjrnick-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22NICKJR%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4511
