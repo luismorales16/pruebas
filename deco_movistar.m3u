@@ -77,13 +77,13 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=VAM2SD&url=https%3A%
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MELLAV&url=https%3A%2F%2Fm3vamo-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MELLAV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5093
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA
 http://192.168.1.25:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-#EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN MUNDIAL
+#EXTINF:-1 tvg-name="DAZN Mundial HD" tvg-id="DAZN Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN MUNDIAL
 http://192.168.1.25:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga TV Hypermotion HD" group-title="Movistar", LALIGA TV HYPERMOTION
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS&url=https%3A%2F%2Fmsegdiv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MLIGS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5124
 #EXTINF:-1 tvg-name="M+ Fanzone" tvg-id="M+ Fanzone" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Movistar", M+ Fanzone
 http://192.168.1.25:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
-#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN MUNDIAL 2
+#EXTINF:-1 tvg-name="DAZN Mundial 2 HD" tvg-id="DAZN Mundial 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN MUNDIAL 2
 http://192.168.1.25:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="Movistar", LALIGA TV HYPERMOTION 2
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS2&url=https%3A%2F%2F2segdiv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MLIGS2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5127
@@ -175,10 +175,10 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=24H&url=https%3A%2F%
 http://192.168.1.25:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG3.png" tvg-id="M+ LaLiga 4" group-title="Movistar", M+ LALIGA 4
 http://192.168.1.25:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
-#EXTINF:-1 tvg-name="DAZN LaLiga 3" tvg-id="DAZN LaLiga 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL3.png"  group-title="Movistar", DAZN MUNDIAL 3
-http://192.168.1.25:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 tvg-name="DAZN LaLiga 4" tvg-id="DAZN LaLiga 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL4.png"  group-title="Movistar", DAZN MUNDIAL 4
-http://192.168.1.25:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
+#EXTINF:-1 tvg-name="DAZN Mundial 3" tvg-id="DAZN Mundial 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL3.png"  group-title="Movistar", DAZN MUNDIAL 3
+http://192.168.1.25:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
+#EXTINF:-1 tvg-name="DAZN Mundial 4" tvg-id="DAZN Mundial 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL4.png"  group-title="Movistar", DAZN MUNDIAL 4
+http://192.168.1.25:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" tvg-id="LaLiga TV Hypermotion 3" group-title="Movistar", LALIGA TV HYPERMOTION 3
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS3&url=https%3A%2F%2F3segdiv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MLIGS3%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5137
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png" tvg-id="M+ Deportes 4" group-title="Movistar", M+ Deportes 4
