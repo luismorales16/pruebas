@@ -51,10 +51,10 @@ http://192.168.1.25:6878/ace/getstream?id=13d68ecb392251a81489ce75be90388498ecfb
 http://192.168.1.25:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG3.png" tvg-id="M+ LaLiga 4" group-title="Movistar", M+ LALIGA 4
 http://192.168.1.25:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
-#EXTINF:-1 tvg-name="DAZN LaLiga 3" tvg-id="DAZN LaLiga 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL3.png"  group-title="Movistar", DAZN MUNDIAL 3
-http://192.168.1.25:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 tvg-name="DAZN LaLiga 4" tvg-id="DAZN LaLiga 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL4.png"  group-title="Movistar", DAZN MUNDIAL 4
-http://192.168.1.25:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
+#EXTINF:-1 tvg-name="DAZN Mundial 3" tvg-id="DAZN Mundial 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL3.png"  group-title="Movistar", DAZN MUNDIAL 3
+http://192.168.1.25:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
+#EXTINF:-1 tvg-name="DAZN Mundial 4" tvg-id="DAZN Mundial 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL4.png"  group-title="Movistar", DAZN MUNDIAL 4
+http://192.168.1.25:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png" tvg-id="LaLiga TV Hypermotion 3" group-title="Movistar", LALIGA TV HYPERMOTION 3
 http://192.168.1.25:6878/ace/getstream?id=589dfc625c0ddcd9960e40aaf8235ea58705f784
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png" tvg-id="M+ Deportes 4" group-title="Movistar", M+ DEPORTES 4
