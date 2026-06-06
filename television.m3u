@@ -22,7 +22,7 @@ http://192.168.1.25:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" tvg-id="M+ Deportes 3" group-title="Movistar", M+ DEPORTES 3
 http://192.168.1.25:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALCT.png" tvg-id="M+ Baloncesto" group-title="Movistar", M+ BALONCESTO
-http://192.168.1.25:6878/ace/getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6
+http://192.168.1.25:6878/ace/getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALCT.png" tvg-id="M+ Baloncesto 2" group-title="Movistar", M+ BALONCESTO 2
 http://192.168.1.25:6878/ace/getstream?id=88113ee23295b8930ae328a88a8c1b861b8f21f1
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF+.png" tvg-id="M+ Golf HD" group-title="Movistar", M+ GOLF
