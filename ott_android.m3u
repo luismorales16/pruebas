@@ -1,76 +1,75 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DAZN Mundial HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN MUNDIAL
-plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-#EXTINF:-1 tvg-name="DAZN Mundial HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN MUNDIAL
-plugin://script.module.horus?action=play&id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
-#EXTINF:-1 tvg-name="DAZN Mundial 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN MUNDIAL 2
-plugin://script.module.horus?action=play&id=a7ab6d2c40b253fee9d908a5fc6618acb53a9122
-#EXTINF:-1 tvg-name="DAZN Mundial 3" tvg-id="DAZN Mundial 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL3.png"  group-title="Movistar", DAZN MUNDIAL 3
-plugin://script.module.horus?action=play&id=7cf306fc097deca7005b220b1f6206bd654b5ca5
-#EXTINF:-1 tvg-name="DAZN Mundial 4" tvg-id="DAZN Mundial 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL4.png"  group-title="Movistar", DAZN MUNDIAL 4
-plugin://script.module.horus?action=play&id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus HD" group-title="Movistar", Movistar Plus+
+http://server-tv.duckdns.org:6878/ace/getstream?id=67121cbb722b88ce4489717e9a87a26f60184ec9 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus HD" group-title="Movistar", Movistar Plus+
+http://server-tv.duckdns.org:6878/ace/getstream?id=ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD" group-title="Movistar", M+ Vamos
+http://server-tv.duckdns.org:6878/ace/getstream?id=7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD" group-title="Movistar", M+ Vamos 
+http://server-tv.duckdns.org:6878/ace/getstream?id=8686522bd5d0b123cbc94ad4a12f2d3a18492479 
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA
-plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-#EXTINF:-1 tvg-name="M+ Fanzone" tvg-id="M+ Fanzone" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Movistar", M+ FANZONE
-plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" tvg-id="M+ LaLiga 3 HD" group-title="Movistar", M+ LALIGA 3
-plugin://script.module.horus?action=play&id=571ce113b9d600a145766443d7417eccab2e1846
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG3.png" tvg-id="M+ LaLiga 4" group-title="Movistar", M+ LALIGA 4
-plugin://script.module.horus?action=play&id=22178d72e0f255dedd7e56f9474fea879289a6f1
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga TV Hypermotion HD" group-title="Movistar", LALIGA TV HYPERMOTION
-plugin://script.module.horus?action=play&id=fc129b39c253b887563c3f0dce5fca7e699c3047
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="Movistar", LALIGA TV HYPERMOTION 2
-plugin://script.module.horus?action=play&id=3a21e651c0bffe810cfc8537065cb81f5ed68a55
+http://server-tv.duckdns.org:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38 
+#EXTINF:-1 tvg-name="DAZN Mundial HD" tvg-id="DAZN Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN MUNDIAL
+http://server-tv.duckdns.org:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a 
+#EXTINF:-1 tvg-name="DAZN Mundial HD" tvg-id="DAZN Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN MUNDIAL
+http://server-tv.duckdns.org:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36 
+#EXTINF:-1 tvg-name="M+ Fanzone" tvg-id="M+ Fanzone" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Movistar", M+ Fanzone
+http://server-tv.duckdns.org:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-name="DAZN Mundial 2 HD" tvg-id="DAZN Mundial 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN MUNDIAL 2
+http://server-tv.duckdns.org:6878/ace/getstream?id=085afc93f3c502fb31fb79253ebc58e5a8949e84 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones
-plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
+http://server-tv.duckdns.org:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370 
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 2 HD" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png"  group-title="Movistar", M+ Liga de Campeones 2
-plugin://script.module.horus?action=play&id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-
-
-#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar", DAZN 1
-plugin://script.module.horus?action=play&id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png"  group-title="Movistar", DAZN 2
-plugin://script.module.horus?action=play&id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png"  group-title="Movistar", DAZN 3
-plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" tvg-id="DAZN 4 HD" group-title="Movistar", DAZN 4
-plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" group-title="Movistar", DAZN F1 UHD
-plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" group-title="Movistar", DAZN F1
-plugin://script.module.horus?action=play&id=724f9b252b11064e3f16220717fd52bd3a510b5f
-#EXTINF:-1 tvg-name="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="Movistar", DAZN MotoGP UHD
-plugin://script.module.horus?action=play&id=11cbb5346d28af0b972e646832f4be23dd39502d
-#EXTINF:-1 tvg-name="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="Movistar", DAZN MotoGP
-plugin://script.module.horus?action=play&id=c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 tvg-name="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="Movistar", DAZN MotoGP
-plugin://script.module.horus?action=play&id=342ca6975a4884d81f9fec5c4085a47060bd2028
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png" tvg-id="DAZN Baloncesto" group-title="Movistar", DAZN Baloncesto
-plugin://script.module.horus?action=play&id=9dd9cd78f0b08097a0ad290606dbbee999709fa5
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB2.png" tvg-id="DAZN Baloncesto 2" group-title="Movistar", DAZN Baloncesto 2
-plugin://script.module.horus?action=play&id=853129258a5cb51f27829eddb934e58b45978344
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB3.png" tvg-id="DAZN Baloncesto 3" group-title="Movistar", DAZN Baloncesto 3
-plugin://script.module.horus?action=play&id=13d68ecb392251a81489ce75be90388498ecfb91
-
+http://server-tv.duckdns.org:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="M+ Deportes HD" group-title="Movistar", M+ Deportes
-plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+http://server-tv.duckdns.org:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="M+ Deportes 2 HD" group-title="Movistar", M+ Deportes 2
-plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477052b5
+http://server-tv.duckdns.org:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" tvg-id="M+ Deportes 3" group-title="Movistar", M+ Deportes 3
-plugin://script.module.horus?action=play&id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png" tvg-id="M+ Deportes 4" group-title="Movistar", M+ Deportes 4
-plugin://script.module.horus?action=play&id=8b5f9d967384afab226dd759e6e9dfaee9993869
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png" tvg-id="M+ Deportes 5" group-title="Movistar", M+ Deportes 5
-plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d547a90
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" tvg-id="M+ Deportes 6" group-title="Movistar", M+ Deportes 6
-plugin://script.module.horus?action=play&id=8f982a0d6e3196c12d0034142b65008321150f7c
-
+http://server-tv.duckdns.org:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALCT.png" tvg-id="M+ Baloncesto" group-title="Movistar", M+ Baloncesto
-plugin://script.module.horus?action=play&id=34b91125bd752462f1eca2d8d52f5f40fa761aa0
+http://server-tv.duckdns.org:6878/ace/getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALCT.png" tvg-id="M+ Baloncesto 2" group-title="Movistar", M+ Baloncesto 2
-plugin://script.module.horus?action=play&id=88113ee23295b8930ae328a88a8c1b861b8f21f1
+http://server-tv.duckdns.org:6878/ace/getstream?id=88113ee23295b8930ae328a88a8c1b861b8f21f1
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF+.png" tvg-id="M+ Golf HD" group-title="Movistar", M+ Golf
-plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png" tvg-id="Primera Federación" group-title="Movistar", Primera Federacion
-plugin://script.module.horus?action=play&id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-
+http://server-tv.duckdns.org:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb 
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" group-title="Movistar", DAZN F1
+http://server-tv.duckdns.org:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2 
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" group-title="Movistar", DAZN F1
+http://server-tv.duckdns.org:6878/ace/getstream?id=ee4646aae30d862e0d9d453998a344a60aaa7cde 
+#EXTINF:-1 tvg-name="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="Movistar", DAZN MotoGP
+http://server-tv.duckdns.org:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028 
+#EXTINF:-1 tvg-name="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="Movistar", DAZN MotoGP
+http://server-tv.duckdns.org:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36 
+#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar", DAZN 1
+http://server-tv.duckdns.org:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151 
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png"  group-title="Movistar", DAZN 2
+http://server-tv.duckdns.org:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 1 HD" group-title="Movistar", Eurosport 1
+http://server-tv.duckdns.org:6878/ace/getstream?id=62a5750be4d2218b1064f83afaac4770fd92350d 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png" tvg-id="Eurosport 2" group-title="Movistar", Eurosport 2
+http://server-tv.duckdns.org:6878/ace/getstream?id=32fcf8e1513049ef9f90d08ba9040fe34b01d9fd 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png" tvg-id="DAZN Baloncesto" group-title="Movistar", DAZN Baloncesto
+http://server-tv.duckdns.org:6878/ace/getstream?id=9dd9cd78f0b08097a0ad290606dbbee999709fa5
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB2.png" tvg-id="DAZN Baloncesto 2" group-title="Movistar", DAZN Baloncesto 2
+http://server-tv.duckdns.org:6878/ace/getstream?id=88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB3.png" tvg-id="DAZN Baloncesto 3" group-title="Movistar", DAZN Baloncesto 3
+http://server-tv.duckdns.org:6878/ace/getstream?id=13d68ecb392251a81489ce75be90388498ecfb91
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" tvg-id="M+ LaLiga 3 HD" group-title="Movistar", M+ LALIGA 3
+http://server-tv.duckdns.org:6878/ace/getstream?id=085afc93f3c502fb31fb79253ebc58e5a8949e84 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG3.png" tvg-id="M+ LaLiga 4" group-title="Movistar", M+ LALIGA 4
+http://server-tv.duckdns.org:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1 
+#EXTINF:-1 tvg-name="DAZN Mundial 3" tvg-id="DAZN Mundial 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL3.png"  group-title="Movistar", DAZN MUNDIAL 3
+http://server-tv.duckdns.org:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
+#EXTINF:-1 tvg-name="DAZN Mundial 4" tvg-id="DAZN Mundial 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL4.png"  group-title="Movistar", DAZN MUNDIAL 4
+http://server-tv.duckdns.org:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png" tvg-id="M+ Deportes 4" group-title="Movistar", M+ Deportes 4
+http://server-tv.duckdns.org:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png" tvg-id="M+ Deportes 5" group-title="Movistar", M+ Deportes 5
+http://server-tv.duckdns.org:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" tvg-id="M+ Deportes 6" group-title="Movistar", M+ Deportes 6
+http://server-tv.duckdns.org:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c 
+#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png"  group-title="Movistar", DAZN 3
+http://server-tv.duckdns.org:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" tvg-id="DAZN 4 HD" group-title="Movistar", DAZN 4
+http://server-tv.duckdns.org:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
