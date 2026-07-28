@@ -33,8 +33,6 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TCM&url=https%3A%2F%
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SET&url=https%3A%2F%2Fmoviesaxn-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22SET%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4535
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SQUI.png" tvg-id="Squirrel TV" group-title="Movistar", Squirrel
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SQUI&url=https%3A%2F%2Ftvsquirrel-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22SQUI%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5509
-#EXTINF:-1 tvg-id="DiezTV_Andujar.TV" tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="Movistar" tvg-name="Diez TV Andújar", Diez TV Andújar
-https://streamtv2.elitecomunicacion.cloud:3305/live/10tvandujarlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FOXGE.png" tvg-id="STAR Channel HD" group-title="Movistar", STAR Channel
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=FOXGE&url=https%3A%2F%2F01star-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22FOXGE%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4528
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/AXN.png" tvg-id="AXN HD" group-title="Movistar", AXN
