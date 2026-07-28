@@ -69,15 +69,15 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MELLAV&url=https%3A%
 http://192.168.1.25:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA
 http://192.168.1.25:6878/ace/getstream?id=0b5f802f2de6488b4023d0f05195486e19d81ed7
-#EXTINF:-1 tvg-name="DAZN Mundial HD" tvg-id="DAZN Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN MUNDIAL
+#EXTINF:-1 tvg-name="DAZN Mundial HD" tvg-id="DAZN Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN LALIGA
 http://192.168.1.25:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-#EXTINF:-1 tvg-name="DAZN Mundial HD" tvg-id="DAZN Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN MUNDIAL
+#EXTINF:-1 tvg-name="DAZN Mundial HD" tvg-id="DAZN Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN LALIGA
 http://192.168.1.25:6878/ace/getstream?id=3097d7e7ff0fe414711ee067a841168b6f5671cb
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga TV Hypermotion HD" group-title="Movistar", LALIGA TV HYPERMOTION
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS&url=https%3A%2F%2Fmsegdiv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MLIGS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5124
-#EXTINF:-1 tvg-name="M+ Fanzone" tvg-id="M+ Fanzone" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Movistar", M+ Fanzone
+#EXTINF:-1 tvg-name="M+ Fanzone" tvg-id="M+ Fanzone" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Movistar", M+ LALIGA 2
 http://192.168.1.25:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
-#EXTINF:-1 tvg-name="DAZN Mundial 2 HD" tvg-id="DAZN Mundial 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN MUNDIAL 2
+#EXTINF:-1 tvg-name="DAZN Mundial 2 HD" tvg-id="DAZN Mundial 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2
 http://192.168.1.25:6878/ace/getstream?id=085afc93f3c502fb31fb79253ebc58e5a8949e84
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="Movistar", LALIGA TV HYPERMOTION 2
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS2&url=https%3A%2F%2F2segdiv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MLIGS2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5127
@@ -104,7 +104,7 @@ http://192.168.1.25:6878/ace/getstream?id=ee4646aae30d862e0d9d453998a344a60aaa7c
 #EXTINF:-1 tvg-name="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="Movistar", DAZN MotoGP
 http://192.168.1.25:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
 #EXTINF:-1 tvg-name="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="Movistar", DAZN MotoGP
-http://192.168.1.25:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028
+http://192.168.1.25:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
 #EXTINF:-1 tvg-name="DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png"  group-title="Movistar", DAZN 1
 http://192.168.1.25:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png"  group-title="Movistar", DAZN 2
