@@ -15,6 +15,10 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SEXTA&url=https%3A%2
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MPLUS&url=https%3A%2F%2F1p-mplus-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MPLUS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5240
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD" group-title="Movistar", M+ Vamos
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=VAMOSD&url=https%3A%2F%2F1p-vamos-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22VAMOSD%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4767
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARAGTV.png" tvg-id="Aragón TV Internacional" group-title="Movistar", Aragón TV
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ARAGON&url=https%3A%2F%2Faragon-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ARAGON%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4615
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TELMAD.png" tvg-id="Telemadrid Internacional" group-title="Movistar", Telemadrid
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TELMIN&url=https%3A%2F%2Finttelemadrid-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TELMIN%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5092
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CSURHD.png" tvg-id="Canal Sur HD" group-title="Movistar", Canal Sur
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ANTV&url=https%3A%2F%2Fcsur-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ANTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4764
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BEMAD.png" tvg-id="Be Mad" group-title="Movistar", BEMAD
@@ -25,8 +29,13 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MV1&url=https%3A%2F%
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MHITS&url=https%3A%2F%2Fm1hits-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MHITS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4527
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png" tvg-id="M+ Originales HD" group-title="Movistar", Movistar Originales
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MORIG&url=https%3A%2F%2Fmoriginales-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MORIG%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5259
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVCIVA.png" tvg-id="M+ Vacaciones" group-title="Movistar", M+ Vacaciones
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MVCIVA&url=https%3A%2F%2F1popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MVCIVA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4955
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" tvg-id="M+ Documentales HD" group-title="Movistar", Movistar Documentales
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MDOC&url=https%3A%2F%2Fmdocumentales-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MDOC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5245
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORGUL.png" tvg-id="M+ Orgullo" group-title="Movistar", M+ Orgullo
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MORGUL&url=https%3A%2F%2F02popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MORGUL%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5252
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TCM.png" tvg-id="TCM HD" group-title="Movistar", TCM
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TCM&url=https%3A%2F%2Ftcm-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TCM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4603
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SET.png" tvg-id="AXN Movies HD" group-title="Movistar", AXN Movies
@@ -183,6 +192,10 @@ http://192.168.1.25:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a
 http://192.168.1.25:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" tvg-id="M+ Deportes 7" group-title="Movistar", M+ Deportes 7
 http://192.168.1.25:6878/ace/getstream?id=9b38816906198580dbeb35b68673e1d060668e05
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALC3.png" tvg-id="M+ Baloncesto 3" group-title="Movistar", M+ Baloncesto 3
+http://192.168.1.25:6878/ace/getstream?id=9b38816906198580dbeb35b68673e1d060668e05
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/RED.png" tvg-id="Canal Red" group-title="Movistar", Canal RED
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=RED&url=https%3A%2F%2Fredcanal-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22RED%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5529
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 4" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP3.png"  group-title="Movistar", M+ Liga de Campeones 4
 http://192.168.1.25:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 #EXTINF:-1 tvg-name="DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png"  group-title="Movistar", DAZN 3
