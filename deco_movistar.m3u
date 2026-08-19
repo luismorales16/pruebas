@@ -134,8 +134,6 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TDEP&url=https%3A%2F
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=REALM&url=https%3A%2F%2Frealmadrid-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22REALM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5198
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CAZPES.png" tvg-id="Caza y Pesca HD" group-title="Movistar", Caza y Pesca
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CAZPES&url=https%3A%2F%2Fcazaypesca-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CAZPES%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4606
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/UBEAT.png" tvg-id="UBEAT" group-title="Movistar", UBEAT
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=UBEAT&url=https%3A%2F%2Fubeat-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22UBEAT%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4886
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png" tvg-id="National Geographic HD" group-title="Movistar", National Geographic
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NATGEO&url=https%3A%2F%2Fgeonat-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22NATGEO%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4604
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGW.png" tvg-id="Nat Geo Wild HD" group-title="Movistar", Nat Geo Wild
