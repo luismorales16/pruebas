@@ -28,6 +28,11 @@ plugin://script.module.horus?action=play&id=465075c02b7284f564911bd63d1c6f0a8d46
 plugin://script.module.horus?action=play&id=d7ce121c775a303c470d2139b8e8cfa0db38adad
 
 
+#EXTINF:-1 tvg-name="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="Movistar", DAZN MotoGP FHD
+http://192.168.1.25:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-name="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="Movistar", DAZN MotoGP
+http://192.168.1.25:6878/ace/getstream?id=129c707eb4854171d178a566f36d90b7f2b5e624
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones
 plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones
