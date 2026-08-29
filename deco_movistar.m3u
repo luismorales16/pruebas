@@ -87,7 +87,9 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS&url=https%3A%2
 #EXTINF:-1 tvg-name="M+ LaLiga 2 HD" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png"  group-title="Movistar", M+ LALIGA 2
 http://192.168.1.25:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
 #EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2
-http://192.168.1.25:6878/ace/getstream?id=085afc93f3c502fb31fb79253ebc58e5a8949e84
+http://192.168.1.25:6878/ace/getstream?id=465075c02b7284f564911bd63d1c6f0a8d464be7
+#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2
+http://192.168.1.25:6878/ace/getstream?id=d7ce121c775a303c470d2139b8e8cfa0db38adad
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="Movistar", LALIGA TV HYPERMOTION 2
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MLIGS2&url=https%3A%2F%2F2segdiv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MLIGS2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5127
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones
@@ -143,9 +145,9 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NATGW&url=https%3A%2
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCR.png" tvg-id="Discovery" group-title="Movistar", Discovery
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=DCR&url=https%3A%2F%2Fdiscovery-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22DCR%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4545
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png" tvg-id="DAZN Baloncesto" group-title="Movistar", DAZN Baloncesto
-http://192.168.1.25:6878/ace/getstream?id=9dd9cd78f0b08097a0ad290606dbbee999709fa5
+http://192.168.1.25:6878/ace/getstream?id=4005aabe21ba9c6d748845db91e4f48d99f58639
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB2.png" tvg-id="DAZN Baloncesto 2" group-title="Movistar", DAZN Baloncesto 2
-http://192.168.1.25:6878/ace/getstream?id=88113ee23295b8930ae328a88a8c1b861b8f21f1
+http://192.168.1.25:6878/ace/getstream?id=fc912a111ea5a88e02b858b5014d2358b11c84ac
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCRMAX.png" tvg-id="DMAX" group-title="Movistar", DMAX
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=DCRMAX&url=https%3A%2F%2Fdmax-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22DCRMAX%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5244
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB3.png" tvg-id="DAZN Baloncesto 3" group-title="Movistar", DAZN Baloncesto 3
