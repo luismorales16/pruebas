@@ -8,7 +8,11 @@ http://192.168.1.25:6878/ace/getstream?id=86262568aa72b956b06ac67b1c310a32248a0e
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 1 HD" group-title="Movistar", Eurosport 1
 http://192.168.1.25:6878/ace/getstream?id=62a5750be4d2218b1064f83afaac4770fd92350d
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png" tvg-id="Eurosport 2" group-title="Movistar", Eurosport 2
-http://192.168.1.25:6878/ace/getstream?id=32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+http://192.168.1.25:6878/ace/getstream?id=32fcf8e1513049ef9f90d08ba9040fe34b01d9f
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png" tvg-id="Primera Federación" group-title="Movistar", Primera Federación HD
+http://192.168.1.25:6878/ace/getstream?id=3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png" tvg-id="Primera Federación" group-title="Movistar", Primera Federación
+http://192.168.1.25:6878/ace/getstream?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PLAYDC.png" tvg-id="Disney Channel" group-title="Movistar", Disney Channel
 http://192.168.1.25:6878/ace/getstream?id=94f87e54d3ad4660c800d2ec46b14ba29e0186cc
 
