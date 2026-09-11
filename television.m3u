@@ -30,6 +30,11 @@ http://192.168.1.25:6878/ace/getstream?id=d7ce121c775a303c470d2139b8e8cfa0db38ad
 http://192.168.1.25:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
 #EXTINF:-1 tvg-name="DAZN LaLiga 4" tvg-id="DAZN LaLiga 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL4.png"  group-title="Movistar", DAZN LALIGA 4
 http://192.168.1.25:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga TV Hypermotion HD" group-title="Movistar", LALIGA TV HYPERMOTION HD
+http://192.168.1.25:6878/ace/getstream?id=ee8ce83c44dc9b1e331672e2a0166e2830b00040
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga TV Hypermotion HD" group-title="Movistar", LALIGA TV HYPERMOTION
+http://192.168.1.25:6878/ace/getstream?id=135c420f704d717b8913b2a66b2722fd6b2c127c
+
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones FHD
 http://192.168.1.25:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
