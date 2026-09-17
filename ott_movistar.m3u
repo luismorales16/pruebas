@@ -34,7 +34,7 @@ http://192.168.1.25:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a1049
 #EXTINF:-1 tvg-name="DAZN LaLiga HD" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png"  group-title="Movistar", DAZN LALIGA
 http://192.168.1.25:6878/ace/getstream?id=3097d7e7ff0fe414711ee067a841168b6f5671cb
 #EXTINF:-1 tvg-name="DAZN LaLiga 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png"  group-title="Movistar", DAZN LALIGA 2
-http://192.168.1.25:6878/ace/getstream?id=
+http://192.168.1.25:6878/ace/getstream?id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 #EXTINF:-1 tvg-name="DAZN LaLiga 3" tvg-id="DAZN LaLiga 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL3.png"  group-title="Movistar", DAZN LALIGA 3
 http://192.168.1.25:6878/ace/getstream?id=
 #EXTINF:-1 tvg-name="DAZN LaLiga 4" tvg-id="DAZN LaLiga 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL4.png"  group-title="Movistar", DAZN LALIGA 4
