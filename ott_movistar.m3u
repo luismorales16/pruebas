@@ -1,4 +1,12 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png" tvg-id="M+ Vamos 2" group-title="Movistar", M+ Vamos 2 HD
+http://192.168.1.25:6878/ace/getstream?id=c8c172886e466fbe443433f8e95d201e34edd879
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png" tvg-id="M+ Vamos 2" group-title="Movistar", M+ Vamos 2
+http://192.168.1.25:6878/ace/getstream?id=0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
+
+
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA HD
 http://192.168.1.25:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA
