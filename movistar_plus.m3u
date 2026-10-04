@@ -192,59 +192,28 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TV5&url=https%3A%2F%
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BL&url=https%3A%2F%2Ftvbloomberg-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BL%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5286
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/INTECO.png" tvg-id="El Toro TV" group-title="Movistar", El Toro TV
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=INTECO&url=https%3A%2F%2Feltorotv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22INTECO%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4893
-
-
-#EXTINF:-1 tvg-name="Negocios TV" tvg-id="NEGOTV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NEGOTV" tvg-chno="140" group-title="Movistar+",Negocios TV
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NEGOTV.png" tvg-id="Negocios TV" group-title="Movistar", Negocios TV
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NEGOTV&url=https%3A%2F%2Fnegociostv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22NEGOTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4985
-#EXTINF:-1 tvg-name="CGTN Español" tvg-id="CCTV-E" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CCTV-E" tvg-chno="141" group-title="Movistar+",CGTN Español
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CCTV-E.png" tvg-id="CGTN Español" group-title="Movistar", CGTN Español
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CCTV-E&url=https%3A%2F%2Fcgtn-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CCTV-E%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5287
-#EXTINF:-1 tvg-name="Canal Sur Andalucía" tvg-id="ANTV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ANTV" tvg-chno="151" group-title="Movistar+",Canal Sur Andalucía
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ANTV.png" tvg-id="Canal Sur Andalucía" group-title="Movistar", Canal Sur Andalucía
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ANTV&url=https%3A%2F%2Fcsur-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ANTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4764
-#EXTINF:-1 tvg-name="TVG Europa" tvg-id="TVG" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVG" tvg-chno="152" group-title="Movistar+",TVG Europa
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVG.png" tvg-id="TVG Europa HD" group-title="Movistar", TVG Europa
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TVG&url=https%3A%2F%2Fgalicia-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TVG%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4548
-#EXTINF:-1 tvg-name="Canal Extremadura Sat" tvg-id="EXTREM" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/EXTREM" tvg-chno="153" group-title="Movistar+",Canal Extremadura Sat
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/EXTREM.png" tvg-id="Canal Extremadura SAT" group-title="Movistar", Canal Extremadura Sat
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=EXTREM&url=https%3A%2F%2Fextremadura-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22EXTREM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4614
-#EXTINF:-1 tvg-name="TV3 Cat" tvg-id="TVC" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVC" tvg-chno="154" group-title="Movistar+",TV3 Cat
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVC.png" tvg-id="TV3CAT Catalunya" group-title="Movistar", TV3 Cat
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TVC&url=https%3A%2F%2Ftv3cat-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TVC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4555
-#EXTINF:-1 tvg-name="Aragón TV Int" tvg-id="ARAGON" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARAGON" tvg-chno="156" group-title="Movistar+",Aragón TV Int
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARAGON.png" tvg-id="Aragón TV Internacional" group-title="Movistar", Aragón TV Int
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ARAGON&url=https%3A%2F%2Faragon-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ARAGON%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4615
-#EXTINF:-1 tvg-name="Telemadrid Int." tvg-id="TELMIN" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMIN" tvg-chno="157" group-title="Movistar+",Telemadrid Int.
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TELMIN.png" tvg-id="Telemadrid Internacional" group-title="Movistar", Telemadrid Int
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TELMIN&url=https%3A%2F%2Finttelemadrid-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TELMIN%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5092
-#EXTINF:-1 tvg-name="etb1ON" tvg-id="ETB3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ETB3" tvg-chno="158" group-title="Movistar+",etb1ON
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ETB3.png" tvg-id="ETB3" group-title="Movistar", etb1ON
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ETB3&url=https%3A%2F%2Fetb1onsat-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ETB3%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5531
-#EXTINF:-1 tvg-name="etb2ON" tvg-id="ETB" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ETB" tvg-chno="159" group-title="Movistar+",etb2ON
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ETB.png" tvg-id="ETB" group-title="Movistar", etb2ON
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ETB&url=https%3A%2F%2Fetb2onsat-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ETB%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4557
-#EXTINF:-1 tvg-name="M+ Cero 2" tvg-id="CERO2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CERO2" tvg-chno="130" group-title="Movistar+",M+ Cero 2
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CERO2.png" tvg-id="M+ Cero 2" group-title="Movistar", M+ Cero 2
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CERO2&url=https%3A%2F%2F02origfreemium-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CERO2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5618
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/24H.png" tvg-id="24 Horas" group-title="Movistar", 24 Horas
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=24H&url=https%3A%2F%2F24horas-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%2224H%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4544
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" tvg-id="M+ LaLiga 3 HD" group-title="Movistar", M+ LALIGA 3
