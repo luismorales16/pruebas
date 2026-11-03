@@ -240,9 +240,9 @@ http://192.168.1.25:6878/ace/getstream?id=6d67f2d943279e0b0b99efd8ae6449f084e590
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 5" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP4.png"  group-title="Movistar", M+ Liga de Campeones 5
 http://192.168.1.25:6878/ace/getstream?id=bbe2f4b7990119c1f641d3b4159b6246139c0df2
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 6" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP5.png"  group-title="Movistar", M+ Liga de Campeones 6 HD
-http://192.168.1.25:6878/ace/getstream?id=577c31553729915add3d154e53adfe4415a7c15a
+http://192.168.1.25:6878/ace/getstream?id=461eb000d199b3122fa63e53cca9c17a92456477
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 6" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP5.png"  group-title="Movistar", M+ Liga de Campeones 6
-http://192.168.1.25:6878/ace/getstream?id=7d6fd6efad6468d21467261857d034554be236ce
+http://192.168.1.25:6878/ace/getstream?id=d4103186fd1e5621da852a4e0f1429bf059091b2
 #EXTINF:-1 tvg-name="M+ Liga de Campeones 7" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP6.png"  group-title="Movistar", M+ Liga de Campeones 7
 http://192.168.1.25:6878/ace/getstream?id=3a7dc12a37229e29861b826f7935b2d7804b817b
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png" tvg-id="M+ Deportes 4" group-title="Movistar", M+ Deportes 4
