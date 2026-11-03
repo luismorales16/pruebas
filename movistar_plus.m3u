@@ -252,7 +252,7 @@ http://192.168.1.25:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28d
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png" tvg-id="DAZN 4 HD" group-title="Movistar", DAZN 4
 http://192.168.1.25:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALC3.png" tvg-id="M+ Baloncesto 3" group-title="Movistar", M+ Baloncesto 3
-http://192.168.1.25:6878/ace/getstream?id=
+http://192.168.1.25:6878/ace/getstream?id=f9fdbd57935c75a9feedaab17a9ee4af21e8c128
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png" tvg-id="Primera Federación" group-title="Movistar", Primera Federación
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MCOPA&url=https%3A%2F%2F01coparey-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MCOPA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5355
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SQUI.png" tvg-id="Squirrel TV" group-title="Movistar", Squirrel
