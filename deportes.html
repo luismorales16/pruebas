@@ -223,17 +223,18 @@ footer{border-top:1px solid var(--line);padding:28px 0 40px;color:var(--muted);f
 <script>
 /* ============================================================
    CANALES
-   Pega el enlace de cada canal en el campo "u" (entre comillas).
-   Si "u" está vacío, el botón avisa de que falta el enlace.
+   Cada clave de ENLACES es el nombre del canal convertido a
+   "slug" (minúsculas, sin tildes, sin "+", con guiones bajos).
+   Ejemplo: "M+ LaLiga HD" -> "m_laliga_hd".
+   Si un canal no tiene enlace, el botón avisa de que falta.
    PORTADAS: cada competición admite un campo opcional img:"URL"
    con tu propio logo (mejor PNG transparente). Sin img, se muestra
    el texto grande sobre el degradado.
    ============================================================ */
-// Sustituye cada "http://id_canal.m3u" por el enlace que quieras.
 const ENLACES = {
    "m_laliga_hd": "acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7",
   "m_laliga": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-  "m_laliga_2": "acestream://b8eb9c9868d487402569bba2d97a8af113d033feacestream://571ce113b9d600a145766443d7417eccab2e1846",
+  "m_laliga_2": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
   "m_laliga_3": "acestream://571ce113b9d600a145766443d7417eccab2e1846",
   "m_laliga_4": "acestream://22178d72e0f255dedd7e56f9474fea879289a6f1",
   "dazn_laliga_hd": "acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb", 
@@ -244,10 +245,11 @@ const ENLACES = {
   "laliga_tv_hypermotion": "acestream://9743a3b8d01520ec383434fd829340c9d53a7077",
   "m_liga_de_campeones_hd": "acestream://f079cadc2ec13a5565c1deb0dee7bc9bb053affe",
   "m_liga_de_campeones": "acestream://07413e8e25d03d5a775dd058ff9447eab16c5de6",
-  "m_liga_de_campeones_2_hd": "acestream://1f740f14c7a5c02b6c6e64f089b6005498bfd217",
+  "m_liga_de_campeones_2_hd": "acestream://0d417ac9ae7c34c17f3fdb7128944c6313b80534",
   "m_liga_de_campeones_2": "acestream://231a1698890b6d930fc678ce8189bc7034ea2cda",
   "m_liga_de_campeones_3_hd": "acestream://3499facaeb192725c6b5f13e2a1460b21658667e",
-  "m_liga_de_campeones_3": "acestream://b20151f1a6d643915bcdf68fe7dd1aaa1d942477",
+  "m_liga_de_campeones_3": "acestream://c6c9cd6cf39c3fe04d2ca3152f6ee13714cd390b",
+  "m_liga_de_campeones_3_sd": "acestream://b20151f1a6d643915bcdf68fe7dd1aaa1d942477",
   "m_liga_de_campeones_4_hd": "acestream://d0b3e6728c08ff648cad74021c36a7410069160f",
   "m_liga_de_campeones_4": "acestream://c4a98d1e73080b06e23ca17e504724c1c973bcf3",
   "m_liga_de_campeones_5_hd": "acestream://6d67f2d943279e0b0b99efd8ae6449f084e59087",
@@ -289,8 +291,8 @@ const CATS = [
       "LaLiga TV Hypermotion HD","LaLiga TV Hypermotion") },
     { name:"Champions League", sub:"Fútbol europeo", mono:"Champions", grad:"linear-gradient(135deg,#4d7cff,#1b2a8a)", ch: ch(
       "M+ Liga de Campeones HD","M+ Liga de Campeones","M+ Liga de Campeones 2 HD","M+ Liga de Campeones 2",
-      "M+ Liga de Campeones 3 HD","M+ Liga de Campeones 3","M+ Liga de Campeones 4 HD","M+ Liga de Campeones 4",
-      "M+ Liga de Campeones 5","M+ Liga de Campeones 6") },
+      "M+ Liga de Campeones 3 HD","M+ Liga de Campeones 3","M+ Liga de Campeones 3 SD","M+ Liga de Campeones 4 HD","M+ Liga de Campeones 4",
+      "M+ Liga de Campeones 5 HD","M+ Liga de Campeones 5","M+ Liga de Campeones 6","M+ Liga de Campeones 7") },
     { name:"Primera Federación", sub:"Primera Federación Española", mono:"1ª Fede-ración", grad:"linear-gradient(135deg,#7bb369,#2f6b3a)", ch: ch(
       "Primera Federación HD","Primera Federación") }
   ]},
@@ -328,8 +330,10 @@ try { favs = new Set(JSON.parse(localStorage.getItem("mis-favs") || "[]")); } ca
 function saveFavs(){ try { localStorage.setItem("mis-favs", JSON.stringify([...favs])); } catch(e){} }
 
 function openChannel(c){
-  if (c.u) window.open(c.u, "_blank", "noopener");
-  else toast("Este canal aún no tiene enlace.");
+  if (!c.u){ toast("Este canal aún no tiene enlace."); return; }
+  // Los enlaces acestream:// se lanzan directamente en la app, sin abrir pestaña en blanco
+  if (/^acestream:\/\//i.test(c.u)) location.href = c.u;
+  else window.open(c.u, "_blank", "noopener");
 }
 
 const ICON = {
