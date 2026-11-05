@@ -11,6 +11,8 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=C4&url=https%3A%2F%2
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=T5&url=https%3A%2F%2Ftele5-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22T5%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4525
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SEXTA.png" tvg-id="La Sexta HD" group-title="Movistar", La Sexta
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SEXTA&url=https%3A%2F%2Flasexta-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22SEXTA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4526
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DP/canal/SEPTIM.png" tvg-id="La Séptima" group-title="Movistar", La Séptima
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SEPTIM&url=https%3A%2F%2Flaseptima-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22SEPTIM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5624
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus HD" group-title="Movistar", Movistar Plus+
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MPLUS&url=https%3A%2F%2Fmplus-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MPLUS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5240
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD" group-title="Movistar", M+ Vamos
@@ -59,7 +61,7 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NEOX&url=https%3A%2F
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ATRESS&url=https%3A%2F%2Fa3series-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ATRESS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4539
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png" tvg-id="M+ Vamos 2" group-title="Movistar", M+ Vamos 2
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=VAM2SD&url=https%3A%2F%2Fm2vamo-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22VAM2SD%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5490
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png" tvg-id="M+ Ellas Vamos HD" group-title="Movistar", M+ Vamos 3
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png" tvg-id="M+ Vamos 3" group-title="Movistar", M+ Vamos 3
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MELLAV&url=https%3A%2F%2Fm3vamo-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MELLAV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5093
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA HD
 http://192.168.1.25:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
@@ -131,7 +133,7 @@ http://192.168.1.25:6878/ace/getstream?id=95125f755562c0ffcb44abd94e338bd65472af
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ESP&url=https%3A%2F%2Feurosport1-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ESP%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4605
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png" tvg-id="Eurosport 2" group-title="Movistar", Eurosport 2
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ESP2&url=https%3A%2F%2Feurosport2-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ESP2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4580
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOL.png" tvg-id="GOL" group-title="Movistar", Replay
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOL.png" tvg-id="Replay" group-title="Movistar", Replay
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=GOL&url=https%3A%2F%2Fgoltv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22GOL%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4577
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TDEP.png" tvg-id="Teledeporte" group-title="Movistar", Teledeporte
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TDEP&url=https%3A%2F%2Fteledeporte-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TDEP%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4504
@@ -161,7 +163,7 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TEN&url=https%3A%2F%
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BABY&url=https%3A%2F%2Fbabytv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BABY%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4508
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PLAYDC.png" tvg-id="Disney Channel" group-title="Movistar", Disney Channel
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=PLAYDC&url=https%3A%2F%2Fjrdisney-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22PLAYDC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4509
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NICKJR.png" tvg-id="Nick JR" group-title="Movistar", Nick JR
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NICKJR.png" tvg-id="Nick JR" group-title="Movistar", NICK JR
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NICKJR&url=https%3A%2F%2Fjrnick-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22NICKJR%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4511
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NICK.png" tvg-id="Nickelodeon HD" group-title="Movistar", Nickelodeon
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NICK&url=https%3A%2F%2Fnickelodeon-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22NICK%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4512
@@ -183,8 +185,6 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=24H&url=https%3A%2F%
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BBC&url=https%3A%2F%2Fworldbbc-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BBC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5256
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CNN.png" tvg-id="CNN International Europe" group-title="Movistar", CNN Int
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CNN&url=https%3A%2F%2Fintcnn-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CNN%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5254
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CERO2.png" tvg-id="M+ Cero 2" group-title="Movistar", M+ Cero 2
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CERO2&url=https%3A%2F%2F02origfreemium-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CERO2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5618
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ENW.png" tvg-id="EuroNews" group-title="Movistar", Euronews
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ENW&url=https%3A%2F%2F1euronews-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ENW%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5255
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ALJAZE.png" tvg-id="Al Jazeera English HD" group-title="Movistar", Al Jazeera English
