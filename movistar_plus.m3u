@@ -112,11 +112,11 @@ http://192.168.1.25:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b1
 #EXTINF:-1 tvg-name="DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png"  group-title="Movistar", DAZN 2
 http://192.168.1.25:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png" tvg-id="DAZN Baloncesto" group-title="Movistar", DAZN Baloncesto
-http://192.168.1.25:6878/ace/getstream?id=d22f026975a17af9a10e52935f50ea6d5c0de3f3
+http://192.168.1.25:6878/ace/getstream?id=8033aae52386138bac76bd7a16b8c1ab67bcd679
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB2.png" tvg-id="DAZN Baloncesto 2" group-title="Movistar", DAZN Baloncesto 2
-http://192.168.1.25:6878/ace/getstream?id=fc912a111ea5a88e02b858b5014d2358b11c84ac
+http://192.168.1.25:6878/ace/getstream?id=09ee8afc1d9b468d3b470c682cfcacd58a95e273
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB3.png" tvg-id="DAZN Baloncesto 3" group-title="Movistar", DAZN Baloncesto 3
-http://192.168.1.25:6878/ace/getstream?id=95125f755562c0ffcb44abd94e338bd65472afea
+http://192.168.1.25:6878/ace/getstream?id=8e2f1e1f1fdc8e7d324dc931a6fb65fc4d1a71da
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 1 HD" group-title="Movistar", Eurosport 1
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ESP&url=https%3A%2F%2Feurosport1-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ESP%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4605
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png" tvg-id="Eurosport 2" group-title="Movistar", Eurosport 2
