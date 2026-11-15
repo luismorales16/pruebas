@@ -6,7 +6,7 @@ http://192.168.1.25:6878/ace/getstream?id=d2b5299ed45cbaf35482bb0869b2c2f75fbed6
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD" group-title="Movistar", M+ Vamos
 http://192.168.1.25:6878/ace/getstream?id=86262568aa72b956b06ac67b1c310a32248a0e98
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png" tvg-id="Primera Federación" group-title="Movistar", Primera Federación HD
-http://192.168.1.25:6878/ace/getstream?id=af565d3fa5193d629eaf01b4fe080b734170d14e
+http://192.168.1.25:6878/ace/getstream?id=eb1a92754ca21883e4473646eed3a5d69202e629
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png" tvg-id="Primera Federación" group-title="Movistar", Primera Federación
 http://192.168.1.25:6878/ace/getstream?id=2042a3df45db52568fb629ca10b8b62b16c4f9d6
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 1 HD" group-title="Movistar", Eurosport 1
