@@ -101,6 +101,16 @@ http://192.168.1.25:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee99938
 http://192.168.1.25:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" tvg-id="M+ Deportes 6" group-title="Movistar", M+ Deportes 6
 http://192.168.1.25:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALCT.png" tvg-id="M+ Baloncesto" group-title="Movistar", M+ Baloncesto
+http://192.168.1.25:6878/ace/getstream?id=31f2a257cd226d80339342c449d76339b4a1e6fa
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALCT.png" tvg-id="M+ Baloncesto 2" group-title="Movistar", M+ Baloncesto 2
+http://192.168.1.25:6878/ace/getstream?id=dce8628942410de57606a6849ab6be46de3f9458
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALC3.png" tvg-id="M+ Baloncesto 3" group-title="Movistar", M+ Baloncesto 3
+http://192.168.1.25:6878/ace/getstream?id=54e1205da682d519fcc8ddeccff1626b8af86a6a
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALC4.png" tvg-id="M+ Baloncesto 4" group-title="Movistar", M+ Baloncesto 4
+http://192.168.1.25:6878/ace/getstream?id=d2b46901e81e835371df1e07c1cc15699b46ed52
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALC5.png" tvg-id="M+ Baloncesto 5" group-title="Movistar", M+ Baloncesto 5
+http://192.168.1.25:6878/ace/getstream?id=28360e214f0cae450e9aaa8753c5be455109188f
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF+.png" tvg-id="M+ Golf HD" group-title="Movistar", M+ Golf
 http://192.168.1.25:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" tvg-id="M+ Golf 2 HD" group-title="Movistar", M+ Golf 2
