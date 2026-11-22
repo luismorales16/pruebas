@@ -1,18 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus HD" group-title="Movistar", Movistar Plus+
 http://192.168.1.25:6878/ace/getstream?id=67121cbb722b88ce4489717e9a87a26f60184ec9
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD" group-title="Movistar", M+ Vamos HD
+http://192.168.1.25:6878/ace/getstream?id=f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD" group-title="Movistar", M+ Vamos
 http://192.168.1.25:6878/ace/getstream?id=86262568aa72b956b06ac67b1c310a32248a0e98
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png" tvg-id="Primera Federación" group-title="Movistar", Primera Federación HD
-http://192.168.1.25:6878/ace/getstream?id=eb1a92754ca21883e4473646eed3a5d69202e629
+http://192.168.1.25:6878/ace/getstream?id=2ffc32c0b0d343479df339abca92908bc33c0a09
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png" tvg-id="Primera Federación" group-title="Movistar", Primera Federación
-http://192.168.1.25:6878/ace/getstream?id=2042a3df45db52568fb629ca10b8b62b16c4f9d6
+http://192.168.1.25:6878/ace/getstream?id=bf95e600e8f546948eb4f170079533b2a38954ac
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 1 HD" group-title="Movistar", Eurosport 1
 http://192.168.1.25:6878/ace/getstream?id=05004eac5955c789c41c4799cfedcf3b4468cb4a
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png" tvg-id="Eurosport 2" group-title="Movistar", Eurosport 2
 http://192.168.1.25:6878/ace/getstream?id=be1ab9f792dac014fc3ce8e7a52e6bdd92bea6c6
 
-#EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA HDR
+#EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA UHD
 http://192.168.1.25:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-name="M+ LaLiga HD" tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png"  group-title="Movistar", M+ LALIGA HD
 http://192.168.1.25:6878/ace/getstream?id=7108ad98920a87cc7dc857748e69a5d725890b98
