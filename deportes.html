@@ -123,6 +123,9 @@ section.block{padding-top:56px}
 .thumb{position:relative;display:grid;place-items:center;aspect-ratio:16/9;padding:14px;background:#0a1a31;overflow:hidden;text-align:center}
 .thumb::before{content:"";position:absolute;left:0;right:0;top:0;height:3px;background:var(--ac,var(--accent))}
 .thumb::after{content:"";position:absolute;right:-34px;bottom:-44px;width:130px;height:130px;border-radius:50%;border:20px solid rgba(255,255,255,.035)}
+.channel-logo{position:relative;z-index:1;display:block;width:min(78%,260px);height:72%;max-height:104px;object-fit:contain;filter:drop-shadow(0 4px 12px rgba(0,0,0,.22));mix-blend-mode:screen;transition:transform .25s var(--ease)}
+.card:hover .channel-logo{transform:scale(1.06)}
+.channel-logo[hidden]{display:none}
 .mono{position:relative;font-family:var(--display);font-weight:800;font-size:clamp(1.6rem,2.6vw,2.15rem);line-height:.95;text-transform:uppercase;letter-spacing:.01em;text-shadow:0 2px 12px rgba(0,0,0,.4);z-index:1;max-width:100%;overflow-wrap:anywhere}
 .mono.long{font-size:clamp(1.2rem,1.9vw,1.55rem)}
 .q{position:absolute;left:10px;top:13px;z-index:2;font-size:.68rem;font-weight:800;letter-spacing:.06em;padding:2px 7px;border-radius:5px}
@@ -429,6 +432,23 @@ CATS.forEach(cat => cat.comps.forEach(comp => comp.ch.forEach(c => {
   c.cat = cat.id; c.catLabel = CAT_LABEL[cat.id] || cat.label; c.comp = comp;
 })));
 const allCh = CATS.flatMap(c => c.comps.flatMap(k => k.ch));
+
+// Logotipos oficiales publicados por Movistar Plus. Se usan las imágenes
+// actuales del catálogo de canales cuando están disponibles; para el resto,
+// se mantiene el identificador tipográfico de INFINITY SPORTS.
+const MP_LOGO = "https://www.movistarplus.es/recorte/m-DP/canal/";
+const CHANNEL_LOGOS = [
+  {test:/^M\\+ LaLiga/i, url:MP_LOGO+"MLIGA.png"},
+  {test:/^M\\+ Liga de Campeones/i, url:MP_LOGO+"CHAPIO.png"},
+  {test:/^M\\+ Deportes/i, url:MP_LOGO+"CPDEP.png"},
+  {test:/^DAZN F1/i, url:MP_LOGO+"MVF1.png"},
+  {test:/^DAZN MotoGP/i, url:MP_LOGO+"DAZMOT.png"},
+  {test:/^DAZN 1$/i, url:MP_LOGO+"M1SD.png"},
+  {test:/^Eurosport/i, url:"https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png"},
+  {test:/^M\\+ Vamos$/i, url:"https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Vamos-por-M_Blanco_RGB.jpg"},
+  {test:/^M\\+ Golf$/i, url:"https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Golf-por-M_Blanco_RGB.jpg"}
+];
+function channelLogo(name){ return CHANNEL_LOGOS.find(item => item.test.test(name))?.url || ""; }
 const plural = n => n + " " + (n === 1 ? "canal" : "canales");
 const countOf = id => id === "todo" ? allCh.length : id === "favoritos" ? allCh.filter(c => favs.has(c.n)).length : allCh.filter(c => c.cat === id).length;
 
@@ -451,13 +471,20 @@ function cardEl(c, gid){
   btn.type = "button";
   btn.className = "card-main";
   btn.setAttribute("aria-label", "Ver " + c.n);
+  const logoUrl = channelLogo(c.n);
   btn.innerHTML = `
     <span class="thumb">
-      <span class="mono${monoTxt(c).length >= 8 ? " long" : ""}">${esc(monoTxt(c))}</span>
+      ${logoUrl ? `<img class="channel-logo" src="${esc(logoUrl)}" alt="${esc(c.n)}" loading="lazy" referrerpolicy="no-referrer">` : ""}
+      <span class="mono${monoTxt(c).length >= 8 ? " long" : ""}" ${logoUrl ? "hidden" : ""}>${esc(monoTxt(c))}</span>
       <span class="q ${isHD ? "hd" : "sd"}">${isHD ? "HD" : "SD"}</span>
       <span class="go">${ICON.play}</span>
     </span>
     <span class="info"><span class="name">${esc(c.n)}</span><span class="meta">${esc(c.catLabel)} · ${esc(c.comp.name)}</span></span>`;
+  const logoImg = btn.querySelector(".channel-logo");
+  if (logoImg) logoImg.addEventListener("error", () => {
+    logoImg.hidden = true;
+    btn.querySelector(".mono").hidden = false;
+  }, {once:true});
   btn.addEventListener("click", () => openChannel(c));
   card.appendChild(btn);
 
