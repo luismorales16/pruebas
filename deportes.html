@@ -438,15 +438,20 @@ const allCh = CATS.flatMap(c => c.comps.flatMap(k => k.ch));
 // se mantiene el identificador tipográfico de INFINITY SPORTS.
 const MP_LOGO = "https://www.movistarplus.es/recorte/m-DP/canal/";
 const CHANNEL_LOGOS = [
-  {test:/^M\\+ LaLiga/i, url:MP_LOGO+"MLIGA.png"},
-  {test:/^M\\+ Liga de Campeones/i, url:MP_LOGO+"CHAPIO.png"},
-  {test:/^M\\+ Deportes/i, url:MP_LOGO+"CPDEP.png"},
+  {test:/^M\+ LaLiga/i, url:MP_LOGO+"MLIGA.png"},
+  {test:/^DAZN LaLiga 2/i, url:MP_LOGO+"DAZNL2.png"},
+  {test:/^DAZN LaLiga/i, url:MP_LOGO+"DAZNLI.png"},
+  {test:/^M\+ Liga de Campeones/i, url:MP_LOGO+"CHAPIO.png"},
+  {test:/^M\+ Deportes/i, url:MP_LOGO+"CPDEP.png"},
   {test:/^DAZN F1/i, url:MP_LOGO+"MVF1.png"},
   {test:/^DAZN MotoGP/i, url:MP_LOGO+"DAZMOT.png"},
   {test:/^DAZN 1$/i, url:MP_LOGO+"M1SD.png"},
+  {test:/^DAZN 2$/i, url:MP_LOGO+"M2SD.png"},
+  {test:/^DAZN 3$/i, url:MP_LOGO+"DAZN3.png"},
+  {test:/^DAZN 4$/i, url:MP_LOGO+"DAZN4.png"},
   {test:/^Eurosport/i, url:"https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png"},
-  {test:/^M\\+ Vamos$/i, url:"https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Vamos-por-M_Blanco_RGB.jpg"},
-  {test:/^M\\+ Golf$/i, url:"https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Golf-por-M_Blanco_RGB.jpg"}
+  {test:/^M\+ Vamos$/i, url:"https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Vamos-por-M_Blanco_RGB.jpg"},
+  {test:/^M\+ Golf$/i, url:"https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Golf-por-M_Blanco_RGB.jpg"}
 ];
 function channelLogo(name){ return CHANNEL_LOGOS.find(item => item.test.test(name))?.url || ""; }
 const plural = n => n + " " + (n === 1 ? "canal" : "canales");
