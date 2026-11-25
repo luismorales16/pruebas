@@ -345,7 +345,10 @@ const ENLACES = {
   "m_deportes_5": "acestream://3230cdca852a10325222e3c546e499e31d547a90",
   "m_deportes_6": "acestream://8f982a0d6e3196c12d0034142b65008321150f7c",
   "m_vamos": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
-  "m_golf": "acestream://872608e734992db636eb79426802cd08f4029afb"
+  "m_golf": "acestream://872608e734992db636eb79426802cd08f4029afb",
+  "movistar_plus": "acestream://67121cbb722b88ce4489717e9a87a26f60184ec9",
+  "laliga_hypermotion_2": "acestream://cafdd40301fad92c6929960e98b1a6feefcf6f18",
+  "laliga_hypermotion_3": "acestream://53a950107d72958b7c607583c66e2b0c2132c6ac"
 };
 const slug = n => n.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/\+/g,"").replace(/[^a-z0-9]+/g,"_").replace(/^_|_$/g,"");
 const ch = (...names) => names.map(n => { const id = slug(n); return {n, id, u: ENLACES[id] || ""}; });
@@ -356,7 +359,7 @@ const CATS = [
       "M+ LaLiga HD","M+ LaLiga","M+ LaLiga 2","M+ LaLiga 3","M+ LaLiga 4",
       "DAZN LaLiga HD","DAZN LaLiga","DAZN LaLiga 2 HD","DAZN LaLiga 2") },
     { name:"LaLiga Hypermotion", sub:"Segunda División Española", mono:"Liga Hyper-motion", grad:"linear-gradient(135deg,#2ec4b6,#0b6e75)", ch: ch(
-      "LaLiga TV Hypermotion HD","LaLiga TV Hypermotion") },
+      "LaLiga TV Hypermotion HD","LaLiga TV Hypermotion","LaLiga Hypermotion 2","LaLiga Hypermotion 3") },
     { name:"Champions League", sub:"Fútbol europeo", mono:"Champions", grad:"linear-gradient(135deg,#4d7cff,#1b2a8a)", ch: ch(
       "M+ Liga de Campeones HD","M+ Liga de Campeones","M+ Liga de Campeones 2 HD","M+ Liga de Campeones 2",
       "M+ Liga de Campeones 3 HD","M+ Liga de Campeones 3","M+ Liga de Campeones 3 SD","M+ Liga de Campeones 4 HD","M+ Liga de Campeones 4",
@@ -375,7 +378,7 @@ const CATS = [
     { name:"DAZN", sub:"Canales deportivos DAZN", mono:"DAZN", grad:"linear-gradient(135deg,#3a4150,#171b23)", ch: ch("DAZN 1","DAZN 2","DAZN 3","DAZN 4") },
     { name:"Eurosport", sub:"Deportes internacionales", mono:"Euro-sport", grad:"linear-gradient(135deg,#2b6cb0,#14305a)", ch: ch("Eurosport 1","Eurosport 2") },
     { name:"M+ Deportes", sub:"Canales deportivos Movistar", mono:"Deportes", grad:"linear-gradient(135deg,#00a6d6,#00587a)", ch: ch(
-      "M+ Deportes","M+ Deportes 2","M+ Deportes 3","M+ Deportes 4","M+ Deportes 5","M+ Deportes 6","M+ Vamos") },
+      "M+ Deportes","M+ Deportes 2","M+ Deportes 3","M+ Deportes 4","M+ Deportes 5","M+ Deportes 6","M+ Vamos","Movistar Plus+") },
     { name:"Golf", sub:"Canal especializado en golf", mono:"Golf", grad:"linear-gradient(135deg,#43aa8b,#1d5e4a)", ch: ch("M+ Golf") }
   ]}
 ];
@@ -449,7 +452,8 @@ const CHANNEL_LOGOS = [
   {test:/^DAZN 2$/i, url:MP_LOGO+"M2SD.png"},
   {test:/^DAZN 3$/i, url:MP_LOGO+"DAZN3.png"},
   {test:/^DAZN 4$/i, url:MP_LOGO+"DAZN4.png"},
-  {test:/^LaLiga TV Hypermotion/i, url:MP_LOGO+"MLIGS.png"},
+  {test:/^LaLiga(?: TV)? Hypermotion/i, url:MP_LOGO+"MLIGS.png"},
+  {test:/^Movistar Plus\+$/i, url:"https://mcusercontent.com/0dfe34473811352b19c645ac3/images/0dab231b-9eb8-3eac-b0f5-c39fd605d4b4.png"},
   {test:/^Primera Federación/i, url:MP_LOGO+"MCOPA.png"},
   {test:/^DAZN Baloncesto 2/i, url:MP_LOGO+"DAZB2.png"},
   {test:/^DAZN Baloncesto/i, url:MP_LOGO+"DAZBA.png"},
