@@ -126,6 +126,8 @@ section.block{padding-top:56px}
 .channel-logo{position:relative;z-index:1;display:block;width:min(78%,260px);height:72%;max-height:104px;object-fit:contain;filter:drop-shadow(0 4px 12px rgba(0,0,0,.22));mix-blend-mode:screen;transition:transform .25s var(--ease)}
 .card:hover .channel-logo{transform:scale(1.06)}
 .channel-logo[hidden]{display:none}
+/* El recurso de Eurosport de Movistar usa el logotipo oscuro: se invierte para que contraste en la tarjeta nocturna. */
+.channel-logo.eurosport-logo{mix-blend-mode:normal;filter:brightness(0) invert(1) drop-shadow(0 4px 12px rgba(0,0,0,.22))}
 .mono{position:relative;font-family:var(--display);font-weight:800;font-size:clamp(1.6rem,2.6vw,2.15rem);line-height:.95;text-transform:uppercase;letter-spacing:.01em;text-shadow:0 2px 12px rgba(0,0,0,.4);z-index:1;max-width:100%;overflow-wrap:anywhere}
 .mono.long{font-size:clamp(1.2rem,1.9vw,1.55rem)}
 .q{position:absolute;left:10px;top:13px;z-index:2;font-size:.68rem;font-weight:800;letter-spacing:.06em;padding:2px 7px;border-radius:5px}
@@ -483,7 +485,7 @@ function cardEl(c, gid){
   const logoUrl = channelLogo(c.n);
   btn.innerHTML = `
     <span class="thumb">
-      ${logoUrl ? `<img class="channel-logo" src="${esc(logoUrl)}" alt="${esc(c.n)}" loading="lazy" referrerpolicy="no-referrer">` : ""}
+      ${logoUrl ? `<img class="channel-logo${/^Eurosport/i.test(c.n) ? " eurosport-logo" : ""}" src="${esc(logoUrl)}" alt="${esc(c.n)}" loading="lazy" referrerpolicy="no-referrer">` : ""}
       <span class="mono${monoTxt(c).length >= 8 ? " long" : ""}" ${logoUrl ? "hidden" : ""}>${esc(monoTxt(c))}</span>
       <span class="q ${isHD ? "hd" : "sd"}">${isHD ? "HD" : "SD"}</span>
       <span class="go">${ICON.play}</span>
