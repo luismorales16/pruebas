@@ -24,11 +24,11 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MHITS&url=https%3A%2
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png" tvg-id="M+ Originales HD" group-title="Movistar", Movistar Originales
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MORIG&url=https%3A%2F%2Fmoriginales-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MORIG%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5259
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TERROR.png" tvg-id="M+ Terror" group-title="Movistar", M+ Terror
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TERROR&url=https%3A%2F%2F1popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TERROR%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4955
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MNAVID&url=https%3A%2F%2F1popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MNAVID%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4955
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" tvg-id="M+ Documentales HD" group-title="Movistar", Movistar Documentales
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MDOC&url=https%3A%2F%2Fmdocumentales-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MDOC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5245
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MROMA.png" tvg-id="M+ Romance" group-title="Movistar", M+ Romance
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MROMA&url=https%3A%2F%2F02popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MROMA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5252
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MTHRI&url=https%3A%2F%2F02popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MTHRI%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5252
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TCM.png" tvg-id="TCM HD" group-title="Movistar", TCM
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TCM&url=https%3A%2F%2Ftcm-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TCM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4603
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SET.png" tvg-id="AXN Movies HD" group-title="Movistar", AXN Movies
